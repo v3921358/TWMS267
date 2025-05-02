@@ -1,0 +1,26 @@
+{
+  "eventList": [
+    {
+      "name": "[頂呱呱] 超好吃的台灣滷肉飯!!",
+      "timeStart": 90000,
+      "timeEnd": 235900,
+      "dateStart": 20240101,
+      "dateEnd": 20301231,
+      "rewards": [
+        2000005,
+        2000004
+      ]
+    },
+    {
+      "name": "[頂呱呱] 超好吃的台灣肉燥飯!!",
+      "timeStart": 0,
+      "timeEnd": 235900,
+      "dateStart": 20240101,
+      "dateEnd": 20301231,
+      "rewards": [
+        2000005,
+        2000004
+      ]
+    }
+  ]
+}

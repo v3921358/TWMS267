@@ -1,0 +1,128 @@
+package Config.constants.enums;
+
+public enum MonsterSkillType {
+    POWERUP(100),
+    MAGICUP(101),
+    PGUARDUP(102),
+    MGUARDUP(103),
+    HASTE(104),
+    MOBCONSUME(105),
+    POWERUP_M(110),
+    MAGICUP_M(111),
+    PGUARDUP_M(112),
+    MGUARDUP_M(113),
+    HEAL_M(114),
+    HASTE_M(115),
+    SEAL(120),
+    DARKNESS(121),
+    WEAKNESS(122),
+    STUN(123),
+    CURSE(124),
+    POISON(125),
+    SLOW(126),
+    DISPEL(127),
+    ATTRACT(128),
+    BANMAP(129),
+    AREA_FIRE(130),
+    AREA_POISON(131),
+    REVERSE_INPUT(132),
+    UNDEAD(133),
+    STOPPORTION(134),
+    STOPMOTION(135),
+    FEAR(136),
+    FROZEN(137),
+    DISPEL_ITEMOPTION(138),
+    PHYSICALIMMUNE(140),
+    MAGICIMMUNE(141),
+    HARDSKIN(142),
+    PCOUNTER(143),
+    MCOUNTER(144),
+    PMCOUNTER(145),
+    INVINCIBLE(146),
+    PAD(150),
+    MAD(151),
+    PDR(152),
+    MDR(153),
+    ACC(154),
+    EVA(155),
+    SPEED(156),
+    SEALSKILL(157),
+    BALROGCOUNTER(158),
+    TELEPORT(170),
+    USER_BOMB(171),
+    USER_MORPH(172),
+    DARKTORNADO(173),
+    LAPIDIFICATION(174),
+    DEATHMARK(175),
+    DAMAGE(176),
+    VENOMSNAKE(177),
+    SLOWATTACK(178),
+    PAINMARK(179),
+    VAMPDEATH(180),
+    MAGNET(181),
+    GIVEMEHEAL(182),
+    FIRE_BOMB(183),
+    RETURNTELEPORT(184),
+    AREA_FORCE(186),
+    DAZZLE(188),
+    NEAR_BUFF(187),
+    CAPDEBUFF_RED(189),
+    CAPDEBUFF_BLUE(190),
+    AREA_TIMEZONE(191),
+    SUMMON(200),
+    SUMMON2(201),
+    PASSIVE_FIREWALK(202),
+    BREAKDOWN_TIMEZONE(203),
+    ALL_KILL(204),
+    FIRE_BOMB_DISPEL(205),
+    AREA_TOSP(206),
+    HEKATON(207),
+    STUNMADE_BODY(208),
+    RESET_MOBSTAT(209),
+    AREA_ABNORMAL(211),
+    AREA_MOBBUFF(212),
+    AREA_WARNING(213),
+    CASTINGBAR(214),
+    OBSTACLE_ATTACK(215),
+    FIXDAMR_BUFF(216),
+    BOUNCE_ATTACK(217),
+    DEBUFF_HALF(219),
+    KNOCKBACK(220),
+    AREA_INSTALL_BUFF(221),
+    AREA_INSTALLED_FIRE(222),
+    LASER_ATTACK(223),
+    LTRBDAMAGE(224),
+    SUMMONSUBBODY(225),
+    TOOS(226),
+    AREA_FORCE_FROM_USER(227),
+    LASER_CONTROL(228),
+    DEC_JUMP(229),
+    FIRE_AT_RANDOM_ATTACK(230),
+    BATTLEFIELD_DEAD(231),
+    TOUCHME(232),
+    POWER_IMMUNE(233),
+    CONTAGION(234),
+    FIELD_COMMAND(235),
+    HANGOVER(236),
+    STIGMA(237),
+    賽蓮光束(264);
+
+    private final int id;
+
+    MonsterSkillType(int id) {
+        this.id = id;
+    }
+
+    public int getId() {
+        return id;
+    }
+
+    public static MonsterSkillType getById(int id) {
+        for (MonsterSkillType value : values()) {
+            if (value.id == id) {
+                return value;
+            }
+        }
+        return null;
+    }
+}

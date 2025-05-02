@@ -1,0 +1,1 @@
+player.loseItem(2450000,1);

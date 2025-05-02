@@ -1,0 +1,96 @@
+[
+  {
+    "entrance": "BE_Taolesi",
+    "open": true,
+    "pqName": ["Boss_Taolesi_Normal"],
+    "pqLog": ["桃乐丝<困难>"],
+    "startMap": 992000000,
+    "minLevel": [200],
+    "maxLevel": [255],
+    "maxEnter": [1],
+    "interval": [1],
+    "reward": [1],
+    "minPlayers": [1],
+    "maxPlayers": [6],
+    "mobLevel": [210],
+    "reviveCount": [5],
+    "eventTaskTime": [1200000],
+    "mobhp": [
+	  {
+	    "9309207":15000000000000
+	  }
+	]
+  },
+  {
+    "entrance": "BE_Demian",
+    "open": true,
+    "pqName": ["Boss_Demian_Hard"],
+    "pqLog": ["戴米安<困难>"],
+    "startMap": 105300303,
+    "minLevel": [200],
+    "maxLevel": [255],
+    "maxEnter": [1],
+    "interval": [1],
+    "reward": [1],
+    "minPlayers": [1],
+    "maxPlayers": [6],
+    "mobLevel": [210],
+    "reviveCount": [5],
+    "eventTaskTime": [1800000],
+    "mobhp": [
+	  {
+	    "8880100": 15000000000000,
+		"8880101": 60000000000000
+	  }
+	]
+  },
+  {
+    "entrance": "PQ_LobbyQuest",
+    "open": true,
+    "reviveCount": [5],
+    "limit": 200,
+    "mobhp": [
+      {
+        "9309201": 50000000000,
+        "9309205": 100000000000,
+        "9309200": 200000000000,
+        "9309203": 300000000000,
+        "9309207": 40000000000000
+      }
+    ]
+  },
+  {
+    "entrance": "BE_Will",
+    "open": true,
+    "pqName": ["Boss_Will_Normal"],
+    "pqLog": ["威尔<普通>"],
+    "startMap": 450007240,
+    "minLevel": [235],
+    "maxLevel": [275],
+    "maxEnter": [1],
+    "interval": [1],
+    "reward": [1],
+    "minPlayers": [1],
+    "maxPlayers": [6],
+    "mobLevel": [275],
+    "reviveCount": [5],
+    "eventTaskTime": [1800000],
+    "mobhp": [
+      {
+        "8880340": 800000000000,
+        "8880343": 800000000000,
+        "8880344": 800000000000,
+        "8880351": 200000000000,
+        "8880352": 200000000000,
+        "8880355": 200000000000,
+        "8880356": 200000000000,
+        "8880341": 800000000000,
+        "8880353": 200000000000,
+        "8880357": 200000000000,
+        "8880342": 800000000000,
+        "8880354": 200000000000,
+        "8880358": 200000000000
+      }
+    ]
+  }
+]

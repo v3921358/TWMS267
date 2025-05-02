@@ -1,0 +1,26 @@
+{
+    "ceshi": {
+        "buff_id": 2022585,
+        "levels": {
+            "1": {
+                "IndiePMdR": 520,
+                "IndieCD": 250
+            },
+            "2": {
+                "IndiePMdR": 40,
+                "IgnoreMobpdpR": 100,
+                "IndieCr": 100,
+                "IndieCD": 40
+            },
+            "3": {
+                "IndieSTR": 500000,
+                "IndieINT": 500000,
+                "IndieDEX": 500000,
+                "IndieLUK": 500000,
+                "IndiePMdR": 30000,
+                "IndieCD": 30000,
+                "IndieCr": 100
+            }
+        }
+    }
+}

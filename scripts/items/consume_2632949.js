@@ -1,0 +1,1 @@
+player.runScript("自選箱/終極武器自選箱子");

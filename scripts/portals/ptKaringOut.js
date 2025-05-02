@@ -1,0 +1,1 @@
+player.showSystemMessage("正在進行戰鬥，如欲離開，請點擊傳送點。");

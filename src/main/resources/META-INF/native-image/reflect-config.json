@@ -1,0 +1,2645 @@
+[
+{
+  "name":"Client.skills.handler.其他.MANAGER",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"Client.skills.handler.其他.全職通用",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"Client.skills.handler.其他.全部劍士",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"Client.skills.handler.其他.全部弓箭手",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"Client.skills.handler.其他.全部法師",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"Client.skills.handler.其他.全部海盜",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"Client.skills.handler.其他.全部盜賊",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"Client.skills.handler.其他.格蘭蒂斯",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"Client.skills.handler.其他.神之子",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"Client.skills.handler.其他.管理員",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"Client.skills.handler.冒險家.冒險家",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"Client.skills.handler.冒險家.初心者",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"Client.skills.handler.冒險家.劍士",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"Client.skills.handler.冒險家.劍士類別.聖騎士",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"Client.skills.handler.冒險家.劍士類別.英雄",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"Client.skills.handler.冒險家.劍士類別.黑騎士",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"Client.skills.handler.冒險家.弓手類別.神射手",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"Client.skills.handler.冒險家.弓手類別.箭神",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"Client.skills.handler.冒險家.弓手類別.開拓者",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"Client.skills.handler.冒險家.弓箭手",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"Client.skills.handler.冒險家.法師",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"Client.skills.handler.冒險家.法師類別.主教",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"Client.skills.handler.冒險家.法師類別.冰雷大魔導士",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"Client.skills.handler.冒險家.法師類別.火毒大魔導士",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"Client.skills.handler.冒險家.海盜",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"Client.skills.handler.冒險家.海盜類別.拳霸",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"Client.skills.handler.冒險家.海盜類別.槍神",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"Client.skills.handler.冒險家.海盜類別.重砲指揮官",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"Client.skills.handler.冒險家.盜賊",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"Client.skills.handler.冒險家.盜賊類別.夜使者",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"Client.skills.handler.冒險家.盜賊類別.影武者",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"Client.skills.handler.冒險家.盜賊類別.暗影神偷",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"Client.skills.handler.怪物.皮卡啾",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"Client.skills.handler.怪物.雪吉拉",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"Client.skills.handler.曉之陣.劍豪",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"Client.skills.handler.曉之陣.曉之陣",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"Client.skills.handler.曉之陣.陰陽師",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"Client.skills.handler.末日反抗軍.傑諾",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"Client.skills.handler.末日反抗軍.市民",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"Client.skills.handler.末日反抗軍.惡魔",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"Client.skills.handler.末日反抗軍.惡魔復仇者",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"Client.skills.handler.末日反抗軍.惡魔殺手",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"Client.skills.handler.末日反抗軍.末日反抗軍",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"Client.skills.handler.末日反抗軍.機甲戰神",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"Client.skills.handler.末日反抗軍.煉獄巫師",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"Client.skills.handler.末日反抗軍.爆拳槍神",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"Client.skills.handler.末日反抗軍.狂豹獵人",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"Client.skills.handler.江湖.墨玄",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"Client.skills.handler.江湖.江湖",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"Client.skills.handler.江湖.琳恩",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"Client.skills.handler.異界.凱內西斯",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"Client.skills.handler.異界.異界",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"Client.skills.handler.皇家騎士團.暗夜行者",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"Client.skills.handler.皇家騎士團.烈焰巫師",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"Client.skills.handler.皇家騎士團.皇家騎士團",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"Client.skills.handler.皇家騎士團.破風使者",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"Client.skills.handler.皇家騎士團.米哈逸",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"Client.skills.handler.皇家騎士團.聖魂劍士",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"Client.skills.handler.皇家騎士團.貴族",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"Client.skills.handler.皇家騎士團.閃雷悍將",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"Client.skills.handler.英雄團.夜光",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"Client.skills.handler.英雄團.幻影俠盜",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"Client.skills.handler.英雄團.狂狼勇士",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"Client.skills.handler.英雄團.精靈遊俠",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"Client.skills.handler.英雄團.英雄團",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"Client.skills.handler.英雄團.隱月",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"Client.skills.handler.英雄團.龍魔導士",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"Client.skills.handler.超新星.凱撒",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"Client.skills.handler.超新星.凱殷",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"Client.skills.handler.超新星.卡蒂娜",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"Client.skills.handler.超新星.天使破壞者",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"Client.skills.handler.超新星.超新星",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"Client.skills.handler.阿尼瑪族.菈菈",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"Client.skills.handler.阿尼瑪族.虎影",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"Client.skills.handler.阿尼瑪族.阿尼瑪族",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"Client.skills.handler.雷普族.亞克",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"Client.skills.handler.雷普族.伊利恩",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"Client.skills.handler.雷普族.卡莉",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"Client.skills.handler.雷普族.阿戴爾",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"Client.skills.handler.雷普族.雷普族",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"Config.configs.CSInfoConfig",
+  "allDeclaredFields":true
+},
+{
+  "name":"Config.configs.CubeConfig",
+  "allDeclaredFields":true
+},
+{
+  "name":"Config.configs.DataBaseConfig",
+  "allDeclaredFields":true
+},
+{
+  "name":"Config.configs.EquipConfig",
+  "allDeclaredFields":true
+},
+{
+  "name":"Config.configs.FireRangbConfig",
+  "allDeclaredFields":true
+},
+{
+  "name":"Config.configs.FishingConfig",
+  "allDeclaredFields":true
+},
+{
+  "name":"Config.configs.MvpEquipConfig",
+  "allDeclaredFields":true
+},
+{
+  "name":"Config.configs.NebuliteConfig",
+  "allDeclaredFields":true
+},
+{
+  "name":"Config.configs.ServerConfig",
+  "allDeclaredFields":true
+},
+{
+  "name":"Config.constants.skills.亞克",
+  "allDeclaredFields":true
+},
+{
+  "name":"Config.constants.skills.伊利恩",
+  "allDeclaredFields":true
+},
+{
+  "name":"Config.constants.skills.傑諾",
+  "allDeclaredFields":true
+},
+{
+  "name":"Config.constants.skills.冒險家_技能群組.type_劍士.初心者",
+  "allDeclaredFields":true
+},
+{
+  "name":"Config.constants.skills.冒險家_技能群組.type_劍士.劍士",
+  "allDeclaredFields":true
+},
+{
+  "name":"Config.constants.skills.冒險家_技能群組.type_劍士.聖騎士",
+  "allDeclaredFields":true
+},
+{
+  "name":"Config.constants.skills.冒險家_技能群組.type_劍士.英雄",
+  "allDeclaredFields":true
+},
+{
+  "name":"Config.constants.skills.冒險家_技能群組.type_劍士.黑騎士",
+  "allDeclaredFields":true
+},
+{
+  "name":"Config.constants.skills.冒險家_技能群組.type_法師.主教",
+  "allDeclaredFields":true
+},
+{
+  "name":"Config.constants.skills.冒險家_技能群組.type_法師.冰雷",
+  "allDeclaredFields":true
+},
+{
+  "name":"Config.constants.skills.冒險家_技能群組.type_法師.法師",
+  "allDeclaredFields":true
+},
+{
+  "name":"Config.constants.skills.冒險家_技能群組.type_法師.火毒",
+  "allDeclaredFields":true
+},
+{
+  "name":"Config.constants.skills.冒險家_技能群組.夜使者",
+  "allDeclaredFields":true
+},
+{
+  "name":"Config.constants.skills.冒險家_技能群組.弓箭手",
+  "allDeclaredFields":true
+},
+{
+  "name":"Config.constants.skills.冒險家_技能群組.影武者",
+  "allDeclaredFields":true
+},
+{
+  "name":"Config.constants.skills.冒險家_技能群組.拳霸",
+  "allDeclaredFields":true
+},
+{
+  "name":"Config.constants.skills.冒險家_技能群組.暗影神偷",
+  "allDeclaredFields":true
+},
+{
+  "name":"Config.constants.skills.冒險家_技能群組.槍神",
+  "allDeclaredFields":true
+},
+{
+  "name":"Config.constants.skills.冒險家_技能群組.海盜",
+  "allDeclaredFields":true
+},
+{
+  "name":"Config.constants.skills.冒險家_技能群組.盜賊",
+  "allDeclaredFields":true
+},
+{
+  "name":"Config.constants.skills.冒險家_技能群組.箭神",
+  "allDeclaredFields":true
+},
+{
+  "name":"Config.constants.skills.凱內西斯",
+  "allDeclaredFields":true
+},
+{
+  "name":"Config.constants.skills.凱撒",
+  "allDeclaredFields":true
+},
+{
+  "name":"Config.constants.skills.凱殷",
+  "allDeclaredFields":true
+},
+{
+  "name":"Config.constants.skills.劍豪",
+  "allDeclaredFields":true
+},
+{
+  "name":"Config.constants.skills.卡莉",
+  "allDeclaredFields":true
+},
+{
+  "name":"Config.constants.skills.卡蒂娜",
+  "allDeclaredFields":true
+},
+{
+  "name":"Config.constants.skills.墨玄",
+  "allDeclaredFields":true
+},
+{
+  "name":"Config.constants.skills.夜光",
+  "allDeclaredFields":true
+},
+{
+  "name":"Config.constants.skills.天使破壞者",
+  "allDeclaredFields":true
+},
+{
+  "name":"Config.constants.skills.市民",
+  "allDeclaredFields":true
+},
+{
+  "name":"Config.constants.skills.幻影俠盜",
+  "allDeclaredFields":true
+},
+{
+  "name":"Config.constants.skills.惡魔",
+  "allDeclaredFields":true
+},
+{
+  "name":"Config.constants.skills.惡魔復仇者",
+  "allDeclaredFields":true
+},
+{
+  "name":"Config.constants.skills.惡魔殺手",
+  "allDeclaredFields":true
+},
+{
+  "name":"Config.constants.skills.機甲戰神",
+  "allDeclaredFields":true
+},
+{
+  "name":"Config.constants.skills.煉獄巫師",
+  "allDeclaredFields":true
+},
+{
+  "name":"Config.constants.skills.爆拳槍神",
+  "allDeclaredFields":true
+},
+{
+  "name":"Config.constants.skills.狂狼勇士",
+  "allDeclaredFields":true
+},
+{
+  "name":"Config.constants.skills.狂豹獵人",
+  "allDeclaredFields":true
+},
+{
+  "name":"Config.constants.skills.皇家騎士團_技能群組.暗夜行者",
+  "allDeclaredFields":true
+},
+{
+  "name":"Config.constants.skills.皇家騎士團_技能群組.烈焰巫師",
+  "allDeclaredFields":true
+},
+{
+  "name":"Config.constants.skills.皇家騎士團_技能群組.破風使者",
+  "allDeclaredFields":true
+},
+{
+  "name":"Config.constants.skills.皇家騎士團_技能群組.米哈逸",
+  "allDeclaredFields":true
+},
+{
+  "name":"Config.constants.skills.皇家騎士團_技能群組.聖魂劍士",
+  "allDeclaredFields":true
+},
+{
+  "name":"Config.constants.skills.皇家騎士團_技能群組.閃雷悍將",
+  "allDeclaredFields":true
+},
+{
+  "name":"Config.constants.skills.皮卡啾",
+  "allDeclaredFields":true
+},
+{
+  "name":"Config.constants.skills.神之子",
+  "allDeclaredFields":true
+},
+{
+  "name":"Config.constants.skills.神射手",
+  "allDeclaredFields":true
+},
+{
+  "name":"Config.constants.skills.管理員",
+  "allDeclaredFields":true
+},
+{
+  "name":"Config.constants.skills.精靈遊俠",
+  "allDeclaredFields":true
+},
+{
+  "name":"Config.constants.skills.菈菈",
+  "allDeclaredFields":true
+},
+{
+  "name":"Config.constants.skills.虎影",
+  "allDeclaredFields":true
+},
+{
+  "name":"Config.constants.skills.貴族",
+  "allDeclaredFields":true
+},
+{
+  "name":"Config.constants.skills.通用V核心",
+  "allDeclaredFields":true
+},
+{
+  "name":"Config.constants.skills.通用V核心$冒險家通用",
+  "allDeclaredFields":true
+},
+{
+  "name":"Config.constants.skills.通用V核心$劍士通用",
+  "allDeclaredFields":true
+},
+{
+  "name":"Config.constants.skills.通用V核心$反抗軍通用",
+  "allDeclaredFields":true
+},
+{
+  "name":"Config.constants.skills.通用V核心$弓箭手通用",
+  "allDeclaredFields":true
+},
+{
+  "name":"Config.constants.skills.通用V核心$曉之陣通用",
+  "allDeclaredFields":true
+},
+{
+  "name":"Config.constants.skills.通用V核心$格蘭蒂斯通用",
+  "allDeclaredFields":true
+},
+{
+  "name":"Config.constants.skills.通用V核心$江湖通用",
+  "allDeclaredFields":true
+},
+{
+  "name":"Config.constants.skills.通用V核心$法師通用",
+  "allDeclaredFields":true
+},
+{
+  "name":"Config.constants.skills.通用V核心$海盜通用",
+  "allDeclaredFields":true
+},
+{
+  "name":"Config.constants.skills.通用V核心$異界通用",
+  "allDeclaredFields":true
+},
+{
+  "name":"Config.constants.skills.通用V核心$盜賊通用",
+  "allDeclaredFields":true
+},
+{
+  "name":"Config.constants.skills.通用V核心$英雄團通用",
+  "allDeclaredFields":true
+},
+{
+  "name":"Config.constants.skills.通用V核心$超新星通用",
+  "allDeclaredFields":true
+},
+{
+  "name":"Config.constants.skills.通用V核心$阿尼瑪族通用",
+  "allDeclaredFields":true
+},
+{
+  "name":"Config.constants.skills.通用V核心$雷普族通用",
+  "allDeclaredFields":true
+},
+{
+  "name":"Config.constants.skills.通用V核心$騎士團通用",
+  "allDeclaredFields":true
+},
+{
+  "name":"Config.constants.skills.重砲指揮官",
+  "allDeclaredFields":true
+},
+{
+  "name":"Config.constants.skills.開拓者",
+  "allDeclaredFields":true
+},
+{
+  "name":"Config.constants.skills.阿戴爾",
+  "allDeclaredFields":true
+},
+{
+  "name":"Config.constants.skills.陰陽師",
+  "allDeclaredFields":true
+},
+{
+  "name":"Config.constants.skills.隱月",
+  "allDeclaredFields":true
+},
+{
+  "name":"Config.constants.skills.雪吉拉",
+  "allDeclaredFields":true
+},
+{
+  "name":"Config.constants.skills.龍魔導士",
+  "allDeclaredFields":true
+},
+{
+  "name":"Handler.AuthHandler",
+  "queryAllPublicMethods":true,
+  "methods":[{"name":"StatusRequest","parameterTypes":["Client.MapleClient","SwordieX.connection.InPacket"] }, {"name":"VerifyTimePulse","parameterTypes":["Client.MapleClient","SwordieX.connection.InPacket"] }, {"name":"startHeartBeart","parameterTypes":["Client.MapleClient","SwordieX.connection.InPacket"] }]
+},
+{
+  "name":"Handler.DuskHandler",
+  "queryAllPublicMethods":true
+},
+{
+  "name":"Handler.EnterCashShopHandler",
+  "queryAllPublicMethods":true
+},
+{
+  "name":"Handler.GoingHandler",
+  "queryAllPublicMethods":true
+},
+{
+  "name":"Handler.Login.LoginHandler",
+  "queryAllPublicMethods":true,
+  "methods":[{"name":"LoadWait","parameterTypes":["Client.MapleClient","SwordieX.connection.InPacket"] }, {"name":"ProfileCheckResults","parameterTypes":["Client.MapleClient","SwordieX.connection.InPacket"] }, {"name":"RequestCheckCharID","parameterTypes":["Client.MapleClient","SwordieX.connection.InPacket"] }, {"name":"clientLog","parameterTypes":["Client.MapleClient","SwordieX.connection.InPacket"] }, {"name":"handleCheckHotfix","parameterTypes":["Client.MapleClient","SwordieX.connection.InPacket"] }, {"name":"handleCheckLogin","parameterTypes":["Client.MapleClient","SwordieX.connection.InPacket"] }, {"name":"handleClientUnkLoginLog","parameterTypes":["Client.MapleClient","SwordieX.connection.InPacket"] }, {"name":"handleMachineIdLog","parameterTypes":["Client.MapleClient","SwordieX.connection.InPacket"] }, {"name":"handlePermissionRequest","parameterTypes":["Client.MapleClient","SwordieX.connection.InPacket"] }, {"name":"handlePrivateServerPacket","parameterTypes":["Client.MapleClient","SwordieX.connection.InPacket"] }, {"name":"handleSecurityPacket","parameterTypes":["Client.MapleClient","SwordieX.connection.InPacket"] }, {"name":"handleSelectWorld","parameterTypes":["Client.MapleClient","SwordieX.connection.InPacket"] }, {"name":"handleServerTimeRequest","parameterTypes":["Client.MapleClient","SwordieX.connection.InPacket"] }, {"name":"handleSetGenderRequest","parameterTypes":["Client.MapleClient","SwordieX.connection.InPacket"] }, {"name":"handleWorldStatusRequest","parameterTypes":["Client.MapleClient","SwordieX.connection.InPacket"] }, {"name":"pingAliveAckCheck","parameterTypes":["Client.MapleClient","SwordieX.connection.InPacket"] }]
+},
+{
+  "name":"Handler.Monster.MomsterHandler",
+  "queryAllPublicMethods":true
+},
+{
+  "name":"Handler.NpcHandler",
+  "queryAllPublicMethods":true
+},
+{
+  "name":"Handler.OverseasHandler",
+  "queryAllPublicMethods":true
+},
+{
+  "name":"Handler.PartyHandler",
+  "queryAllPublicMethods":true,
+  "methods":[{"name":"handlePartyInvitableSet","parameterTypes":["Client.MapleCharacter","SwordieX.connection.InPacket"] }]
+},
+{
+  "name":"Handler.Ping.PingHandler",
+  "queryAllPublicMethods":true,
+  "methods":[{"name":"clientChecking","parameterTypes":["Client.MapleClient","SwordieX.connection.InPacket"] }]
+},
+{
+  "name":"Handler.SkillNGSHandler",
+  "queryAllPublicMethods":true
+},
+{
+  "name":"Handler.UIHandler",
+  "queryAllPublicMethods":true
+},
+{
+  "name":"Net.server.commands.AdminCommand",
+  "allDeclaredClasses":true,
+  "methods":[{"name":"getPlayerLevelRequired","parameterTypes":[] }]
+},
+{
+  "name":"Net.server.commands.AdminCommand$GainP",
+  "fields":[{"name":"enabled"}],
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"Net.server.commands.AdminCommand$GainVP",
+  "fields":[{"name":"enabled"}],
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"Net.server.commands.AdminCommand$Subcategory",
+  "fields":[{"name":"enabled"}],
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"Net.server.commands.AdminCommand$全部人下線",
+  "fields":[{"name":"enabled"}],
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"Net.server.commands.AdminCommand$刷楓幣",
+  "fields":[{"name":"enabled"}],
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"Net.server.commands.AdminCommand$刷楓點",
+  "fields":[{"name":"enabled"}],
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"Net.server.commands.AdminCommand$刷樂豆點",
+  "fields":[{"name":"enabled"}],
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"Net.server.commands.AdminCommand$刷里程",
+  "fields":[{"name":"enabled"}],
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"Net.server.commands.AdminCommand$增加經驗",
+  "fields":[{"name":"enabled"}],
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"Net.server.commands.AdminCommand$封包測試",
+  "fields":[{"name":"enabled"}],
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"Net.server.commands.AdminCommand$封包記錄",
+  "fields":[{"name":"enabled"}],
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"Net.server.commands.AdminCommand$掉寶倍率",
+  "fields":[{"name":"enabled"}],
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"Net.server.commands.AdminCommand$查看掉寶",
+  "fields":[{"name":"enabled"}],
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"Net.server.commands.AdminCommand$查看線程",
+  "fields":[{"name":"enabled"}],
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"Net.server.commands.AdminCommand$查看裝備",
+  "fields":[{"name":"enabled"}],
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"Net.server.commands.AdminCommand$查看進程",
+  "fields":[{"name":"enabled"}],
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"Net.server.commands.AdminCommand$楓幣倍率",
+  "fields":[{"name":"enabled"}],
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"Net.server.commands.AdminCommand$檢測複製",
+  "fields":[{"name":"enabled"}],
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"Net.server.commands.AdminCommand$清理線程",
+  "fields":[{"name":"enabled"}],
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"Net.server.commands.AdminCommand$測試距離",
+  "fields":[{"name":"enabled"}],
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"Net.server.commands.AdminCommand$滿技能",
+  "fields":[{"name":"enabled"}],
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"Net.server.commands.AdminCommand$異常訊息",
+  "fields":[{"name":"enabled"}],
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"Net.server.commands.AdminCommand$禁止技能",
+  "fields":[{"name":"enabled"}],
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"Net.server.commands.AdminCommand$管理登入模式",
+  "fields":[{"name":"enabled"}],
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"Net.server.commands.AdminCommand$給所有人元寶",
+  "fields":[{"name":"enabled"}],
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"Net.server.commands.AdminCommand$給所有人楓幣",
+  "fields":[{"name":"enabled"}],
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"Net.server.commands.AdminCommand$給所有人點數",
+  "fields":[{"name":"enabled"}],
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"Net.server.commands.AdminCommand$經驗倍率",
+  "fields":[{"name":"enabled"}],
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"Net.server.commands.AdminCommand$經驗加倍",
+  "fields":[{"name":"enabled"}],
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"Net.server.commands.AdminCommand$經驗訊息",
+  "fields":[{"name":"enabled"}],
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"Net.server.commands.AdminCommand$線上玩家",
+  "fields":[{"name":"enabled"}],
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"Net.server.commands.AdminCommand$能力點",
+  "fields":[{"name":"enabled"}],
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"Net.server.commands.AdminCommand$脫掉所有人",
+  "fields":[{"name":"enabled"}],
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"Net.server.commands.AdminCommand$血量",
+  "fields":[{"name":"enabled"}],
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"Net.server.commands.AdminCommand$設置經驗",
+  "fields":[{"name":"enabled"}],
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"Net.server.commands.AdminCommand$重置IP黑名單",
+  "fields":[{"name":"enabled"}],
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"Net.server.commands.AdminCommand$重載傳送",
+  "fields":[{"name":"enabled"}],
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"Net.server.commands.AdminCommand$重載包頭",
+  "fields":[{"name":"enabled"}],
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"Net.server.commands.AdminCommand$重載商城封包",
+  "fields":[{"name":"enabled"}],
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"Net.server.commands.AdminCommand$重載商店",
+  "fields":[{"name":"enabled"}],
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"Net.server.commands.AdminCommand$重載封包禁止",
+  "fields":[{"name":"enabled"}],
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"Net.server.commands.AdminCommand$重載技能",
+  "fields":[{"name":"enabled"}],
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"Net.server.commands.AdminCommand$重載指令",
+  "fields":[{"name":"enabled"}],
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"Net.server.commands.AdminCommand$重載掉寶",
+  "fields":[{"name":"enabled"}],
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"Net.server.commands.AdminCommand$重載活動",
+  "fields":[{"name":"enabled"}],
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"Net.server.commands.AdminCommand$重載特殊掉寶",
+  "fields":[{"name":"enabled"}],
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"Net.server.commands.AdminCommand$重載腳本",
+  "fields":[{"name":"enabled"}],
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"Net.server.commands.AdminCommand$重載複製",
+  "fields":[{"name":"enabled"}],
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"Net.server.commands.AdminCommand$重載配置",
+  "fields":[{"name":"enabled"}],
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"Net.server.commands.AdminCommand$開腳本",
+  "fields":[{"name":"enabled"}],
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"Net.server.commands.AdminCommand$關機",
+  "fields":[{"name":"enabled"}],
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"Net.server.commands.AdminCommand$魔量",
+  "fields":[{"name":"enabled"}],
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"Net.server.commands.GMCommand",
+  "allDeclaredClasses":true,
+  "methods":[{"name":"getPlayerLevelRequired","parameterTypes":[] }]
+},
+{
+  "name":"Net.server.commands.GMCommand$GetItemAll",
+  "fields":[{"name":"enabled"}],
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"Net.server.commands.GMCommand$GetItemAll2",
+  "fields":[{"name":"enabled"}],
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"Net.server.commands.GMCommand$Map",
+  "fields":[{"name":"enabled"}],
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"Net.server.commands.GMCommand$OpenUI",
+  "fields":[{"name":"enabled"}],
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"Net.server.commands.GMCommand$PacketUI",
+  "fields":[{"name":"enabled"}],
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"Net.server.commands.GMCommand$Pos",
+  "fields":[{"name":"enabled"}],
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"Net.server.commands.GMCommand$TempBanIP",
+  "fields":[{"name":"enabled"}],
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"Net.server.commands.GMCommand$公告",
+  "fields":[{"name":"enabled"}],
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"Net.server.commands.GMCommand$刪除道具",
+  "fields":[{"name":"enabled"}],
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"Net.server.commands.GMCommand$刷道具",
+  "fields":[{"name":"enabled"}],
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"Net.server.commands.GMCommand$升等",
+  "fields":[{"name":"enabled"}],
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"Net.server.commands.GMCommand$升等到",
+  "fields":[{"name":"enabled"}],
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"Net.server.commands.GMCommand$商店",
+  "fields":[{"name":"enabled"}],
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"Net.server.commands.GMCommand$增加人氣",
+  "fields":[{"name":"enabled"}],
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"Net.server.commands.GMCommand$封IP",
+  "fields":[{"name":"enabled"}],
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"Net.server.commands.GMCommand$技能點",
+  "fields":[{"name":"enabled"}],
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"Net.server.commands.GMCommand$掉寶開關",
+  "fields":[{"name":"enabled"}],
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"Net.server.commands.GMCommand$查看IP",
+  "fields":[{"name":"enabled"}],
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"Net.server.commands.GMCommand$殺OID怪",
+  "fields":[{"name":"enabled"}],
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"Net.server.commands.GMCommand$測試掉落",
+  "fields":[{"name":"enabled"}],
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"Net.server.commands.GMCommand$無敵",
+  "fields":[{"name":"enabled"}],
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"Net.server.commands.GMCommand$獲得技能",
+  "fields":[{"name":"enabled"}],
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"Net.server.commands.GMCommand$私信",
+  "fields":[{"name":"enabled"}],
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"Net.server.commands.GMCommand$等級",
+  "fields":[{"name":"enabled"}],
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"Net.server.commands.GMCommand$設置實例屬性",
+  "fields":[{"name":"enabled"}],
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"Net.server.commands.GMCommand$說大話",
+  "fields":[{"name":"enabled"}],
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"Net.server.commands.GMCommand$誰在這",
+  "fields":[{"name":"enabled"}],
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"Net.server.commands.GMCommand$轉職",
+  "fields":[{"name":"enabled"}],
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"Net.server.commands.GMCommand$重置NPC",
+  "fields":[{"name":"enabled"}],
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"Net.server.commands.GMCommand$重置怪物",
+  "fields":[{"name":"enabled"}],
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"Net.server.commands.GMCommand$鎖定道具",
+  "fields":[{"name":"enabled"}],
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"Net.server.commands.GMCommand$開始副本",
+  "fields":[{"name":"enabled"}],
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"Net.server.commands.GMCommand$離開副本",
+  "fields":[{"name":"enabled"}],
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"Net.server.commands.GMCommand$顯示實例屬性",
+  "fields":[{"name":"enabled"}],
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"Net.server.commands.GMCommand$高級檢索",
+  "fields":[{"name":"enabled"}],
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"Net.server.commands.GMCommand$黃字公告",
+  "fields":[{"name":"enabled"}],
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"Net.server.commands.InternCommand",
+  "allDeclaredClasses":true,
+  "methods":[{"name":"getPlayerLevelRequired","parameterTypes":[] }]
+},
+{
+  "name":"Net.server.commands.InternCommand$CC",
+  "fields":[{"name":"enabled"}],
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"Net.server.commands.InternCommand$CCPlayer",
+  "fields":[{"name":"enabled"}],
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"Net.server.commands.InternCommand$CheckPoint",
+  "fields":[{"name":"enabled"}],
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"Net.server.commands.InternCommand$CheckVPoint",
+  "fields":[{"name":"enabled"}],
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"Net.server.commands.InternCommand$ClearReport",
+  "fields":[{"name":"enabled"}],
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"Net.server.commands.InternCommand$Clock",
+  "fields":[{"name":"enabled"}],
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"Net.server.commands.InternCommand$FakeRelog",
+  "fields":[{"name":"enabled"}],
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"Net.server.commands.InternCommand$Find",
+  "fields":[{"name":"enabled"}],
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"Net.server.commands.InternCommand$HellBan",
+  "fields":[{"name":"enabled"}],
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"Net.server.commands.InternCommand$ID",
+  "fields":[{"name":"enabled"}],
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"Net.server.commands.InternCommand$ItemCheck",
+  "fields":[{"name":"enabled"}],
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"Net.server.commands.InternCommand$Letter",
+  "fields":[{"name":"enabled"}],
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"Net.server.commands.InternCommand$ListInstances",
+  "fields":[{"name":"enabled"}],
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"Net.server.commands.InternCommand$LookUp",
+  "fields":[{"name":"enabled"}],
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"Net.server.commands.InternCommand$MonsterDebug",
+  "fields":[{"name":"enabled"}],
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"Net.server.commands.InternCommand$MyNPCPos",
+  "fields":[{"name":"enabled"}],
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"Net.server.commands.InternCommand$PermWeather",
+  "fields":[{"name":"enabled"}],
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"Net.server.commands.InternCommand$Reports",
+  "fields":[{"name":"enabled"}],
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"Net.server.commands.InternCommand$Search",
+  "fields":[{"name":"enabled"}],
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"Net.server.commands.InternCommand$Song",
+  "fields":[{"name":"enabled"}],
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"Net.server.commands.InternCommand$SpawnDebug",
+  "fields":[{"name":"enabled"}],
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"Net.server.commands.InternCommand$UnHellBan",
+  "fields":[{"name":"enabled"}],
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"Net.server.commands.InternCommand$UnbanIP",
+  "fields":[{"name":"enabled"}],
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"Net.server.commands.InternCommand$Uptime",
+  "fields":[{"name":"enabled"}],
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"Net.server.commands.InternCommand$WarpMap",
+  "fields":[{"name":"enabled"}],
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"Net.server.commands.InternCommand$低血量",
+  "fields":[{"name":"enabled"}],
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"Net.server.commands.InternCommand$來這裡",
+  "fields":[{"name":"enabled"}],
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"Net.server.commands.InternCommand$傳送",
+  "fields":[{"name":"enabled"}],
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"Net.server.commands.InternCommand$傳送ID",
+  "fields":[{"name":"enabled"}],
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"Net.server.commands.InternCommand$全部來這裡",
+  "fields":[{"name":"enabled"}],
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"Net.server.commands.InternCommand$副本訊息",
+  "fields":[{"name":"enabled"}],
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"Net.server.commands.InternCommand$去往",
+  "fields":[{"name":"enabled"}],
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"Net.server.commands.InternCommand$召喚符文輪",
+  "fields":[{"name":"enabled"}],
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"Net.server.commands.InternCommand$封鎖帳號",
+  "fields":[{"name":"enabled"}],
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"Net.server.commands.InternCommand$我在哪裡",
+  "fields":[{"name":"enabled"}],
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"Net.server.commands.InternCommand$查看NPC",
+  "fields":[{"name":"enabled"}],
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"Net.server.commands.InternCommand$查看傳送門",
+  "fields":[{"name":"enabled"}],
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"Net.server.commands.InternCommand$查看反應堆",
+  "fields":[{"name":"enabled"}],
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"Net.server.commands.InternCommand$查看封號",
+  "fields":[{"name":"enabled"}],
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"Net.server.commands.InternCommand$查看帳號",
+  "fields":[{"name":"enabled"}],
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"Net.server.commands.InternCommand$檢測作弊",
+  "fields":[{"name":"enabled"}],
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"Net.server.commands.InternCommand$檢索指令",
+  "fields":[{"name":"enabled"}],
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"Net.server.commands.InternCommand$殺",
+  "fields":[{"name":"enabled"}],
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"Net.server.commands.InternCommand$殺全圖",
+  "fields":[{"name":"enabled"}],
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"Net.server.commands.InternCommand$治癒",
+  "fields":[{"name":"enabled"}],
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"Net.server.commands.InternCommand$治癒全圖",
+  "fields":[{"name":"enabled"}],
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"Net.server.commands.InternCommand$清怪",
+  "fields":[{"name":"enabled"}],
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"Net.server.commands.InternCommand$清理掉寶",
+  "fields":[{"name":"enabled"}],
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"Net.server.commands.InternCommand$清理道具",
+  "fields":[{"name":"enabled"}],
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"Net.server.commands.InternCommand$測謊機",
+  "fields":[{"name":"enabled"}],
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"Net.server.commands.InternCommand$監禁",
+  "fields":[{"name":"enabled"}],
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"Net.server.commands.InternCommand$線上",
+  "fields":[{"name":"enabled"}],
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"Net.server.commands.InternCommand$線上人數",
+  "fields":[{"name":"enabled"}],
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"Net.server.commands.InternCommand$角色訊息",
+  "fields":[{"name":"enabled"}],
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"Net.server.commands.InternCommand$解鎖帳號",
+  "fields":[{"name":"enabled"}],
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"Net.server.commands.InternCommand$說",
+  "fields":[{"name":"enabled"}],
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"Net.server.commands.InternCommand$踢下線",
+  "fields":[{"name":"enabled"}],
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"Net.server.commands.InternCommand$附近傳送點",
+  "fields":[{"name":"enabled"}],
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"Net.server.commands.InternCommand$限時鎖帳",
+  "fields":[{"name":"enabled"}],
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"Net.server.commands.InternCommand$隱藏",
+  "fields":[{"name":"enabled"}],
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"Net.server.commands.InternCommand$頻道線上",
+  "fields":[{"name":"enabled"}],
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"Net.server.commands.PlayerCommand",
+  "allDeclaredClasses":true,
+  "methods":[{"name":"getPlayerLevelRequired","parameterTypes":[] }]
+},
+{
+  "name":"Net.server.commands.PlayerCommand$解卡",
+  "fields":[{"name":"enabled"}],
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"Net.server.commands.SuperGMCommand",
+  "allDeclaredClasses":true,
+  "methods":[{"name":"getPlayerLevelRequired","parameterTypes":[] }]
+},
+{
+  "name":"Net.server.commands.SuperGMCommand$APS",
+  "fields":[{"name":"enabled"}],
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"Net.server.commands.SuperGMCommand$CPS",
+  "fields":[{"name":"enabled"}],
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"Net.server.commands.SuperGMCommand$Crash",
+  "fields":[{"name":"enabled"}],
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"Net.server.commands.SuperGMCommand$HotTime",
+  "fields":[{"name":"enabled"}],
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"Net.server.commands.SuperGMCommand$P",
+  "fields":[{"name":"enabled"}],
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"Net.server.commands.SuperGMCommand$PS",
+  "fields":[{"name":"enabled"}],
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"Net.server.commands.SuperGMCommand$ShowTrace",
+  "fields":[{"name":"enabled"}],
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"Net.server.commands.SuperGMCommand$checkGames",
+  "fields":[{"name":"enabled"}],
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"Net.server.commands.SuperGMCommand$setGmLevel",
+  "fields":[{"name":"enabled"}],
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"Net.server.commands.SuperGMCommand$useSkill",
+  "fields":[{"name":"enabled"}],
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"Net.server.commands.SuperGMCommand$世界廣",
+  "fields":[{"name":"enabled"}],
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"Net.server.commands.SuperGMCommand$丟",
+  "fields":[{"name":"enabled"}],
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"Net.server.commands.SuperGMCommand$伺服器訊息",
+  "fields":[{"name":"enabled"}],
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"Net.server.commands.SuperGMCommand$傷OID怪",
+  "fields":[{"name":"enabled"}],
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"Net.server.commands.SuperGMCommand$傷全圖怪",
+  "fields":[{"name":"enabled"}],
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"Net.server.commands.SuperGMCommand$傷怪",
+  "fields":[{"name":"enabled"}],
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"Net.server.commands.SuperGMCommand$刷新排行榜",
+  "fields":[{"name":"enabled"}],
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"Net.server.commands.SuperGMCommand$召喚",
+  "fields":[{"name":"enabled"}],
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"Net.server.commands.SuperGMCommand$召喚反應堆",
+  "fields":[{"name":"enabled"}],
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"Net.server.commands.SuperGMCommand$吸怪",
+  "fields":[{"name":"enabled"}],
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"Net.server.commands.SuperGMCommand$喇叭開關",
+  "fields":[{"name":"enabled"}],
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"Net.server.commands.SuperGMCommand$地圖廣",
+  "fields":[{"name":"enabled"}],
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"Net.server.commands.SuperGMCommand$增益技能",
+  "fields":[{"name":"enabled"}],
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"Net.server.commands.SuperGMCommand$增益道具",
+  "fields":[{"name":"enabled"}],
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"Net.server.commands.SuperGMCommand$增益道具EX",
+  "fields":[{"name":"enabled"}],
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"Net.server.commands.SuperGMCommand$完成任務",
+  "fields":[{"name":"enabled"}],
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"Net.server.commands.SuperGMCommand$完成玩家任務",
+  "fields":[{"name":"enabled"}],
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"Net.server.commands.SuperGMCommand$強制完成任務",
+  "fields":[{"name":"enabled"}],
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"Net.server.commands.SuperGMCommand$強制攻擊反應堆",
+  "fields":[{"name":"enabled"}],
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"Net.server.commands.SuperGMCommand$強制開始任務",
+  "fields":[{"name":"enabled"}],
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"Net.server.commands.SuperGMCommand$懲罰開關",
+  "fields":[{"name":"enabled"}],
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"Net.server.commands.SuperGMCommand$攻擊反應堆",
+  "fields":[{"name":"enabled"}],
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"Net.server.commands.SuperGMCommand$機器人",
+  "fields":[{"name":"enabled"}],
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"Net.server.commands.SuperGMCommand$殺怪",
+  "fields":[{"name":"enabled"}],
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"Net.server.commands.SuperGMCommand$添加NPC",
+  "fields":[{"name":"enabled"}],
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"Net.server.commands.SuperGMCommand$添加怪物",
+  "fields":[{"name":"enabled"}],
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"Net.server.commands.SuperGMCommand$添加角色NPC",
+  "fields":[{"name":"enabled"}],
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"Net.server.commands.SuperGMCommand$添加離線角色NPC",
+  "fields":[{"name":"enabled"}],
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"Net.server.commands.SuperGMCommand$清怪得經驗",
+  "fields":[{"name":"enabled"}],
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"Net.server.commands.SuperGMCommand$清怪掉寶",
+  "fields":[{"name":"enabled"}],
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"Net.server.commands.SuperGMCommand$漂浮公告",
+  "fields":[{"name":"enabled"}],
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"Net.server.commands.SuperGMCommand$物品數量",
+  "fields":[{"name":"enabled"}],
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"Net.server.commands.SuperGMCommand$獎勵",
+  "fields":[{"name":"enabled"}],
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"Net.server.commands.SuperGMCommand$生怪",
+  "fields":[{"name":"enabled"}],
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"Net.server.commands.SuperGMCommand$監視",
+  "fields":[{"name":"enabled"}],
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"Net.server.commands.SuperGMCommand$破壞反應堆",
+  "fields":[{"name":"enabled"}],
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"Net.server.commands.SuperGMCommand$移除角色NPC",
+  "fields":[{"name":"enabled"}],
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"Net.server.commands.SuperGMCommand$結婚",
+  "fields":[{"name":"enabled"}],
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"Net.server.commands.SuperGMCommand$給V點",
+  "fields":[{"name":"enabled"}],
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"Net.server.commands.SuperGMCommand$給全部帳號獎勵",
+  "fields":[{"name":"enabled"}],
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"Net.server.commands.SuperGMCommand$給技能",
+  "fields":[{"name":"enabled"}],
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"Net.server.commands.SuperGMCommand$給楓點",
+  "fields":[{"name":"enabled"}],
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"Net.server.commands.SuperGMCommand$給樂豆",
+  "fields":[{"name":"enabled"}],
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"Net.server.commands.SuperGMCommand$給線上獎勵",
+  "fields":[{"name":"enabled"}],
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"Net.server.commands.SuperGMCommand$給線上發送留言",
+  "fields":[{"name":"enabled"}],
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"Net.server.commands.SuperGMCommand$給里程",
+  "fields":[{"name":"enabled"}],
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"Net.server.commands.SuperGMCommand$給點數",
+  "fields":[{"name":"enabled"}],
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"Net.server.commands.SuperGMCommand$線程",
+  "fields":[{"name":"enabled"}],
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"Net.server.commands.SuperGMCommand$解鎖道具",
+  "fields":[{"name":"enabled"}],
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"Net.server.commands.SuperGMCommand$設置反應堆",
+  "fields":[{"name":"enabled"}],
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"Net.server.commands.SuperGMCommand$設置臨時NPC",
+  "fields":[{"name":"enabled"}],
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"Net.server.commands.SuperGMCommand$重置任務",
+  "fields":[{"name":"enabled"}],
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"Net.server.commands.SuperGMCommand$重置反應堆",
+  "fields":[{"name":"enabled"}],
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"Net.server.commands.SuperGMCommand$重置地圖",
+  "fields":[{"name":"enabled"}],
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"Net.server.commands.SuperGMCommand$重置玩家任務",
+  "fields":[{"name":"enabled"}],
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"Net.server.commands.SuperGMCommand$重載地圖",
+  "fields":[{"name":"enabled"}],
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"Net.server.commands.SuperGMCommand$重載獎池",
+  "fields":[{"name":"enabled"}],
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"Net.server.commands.SuperGMCommand$重載簽到獎勵",
+  "fields":[{"name":"enabled"}],
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"Net.server.commands.SuperGMCommand$開始任務",
+  "fields":[{"name":"enabled"}],
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"Net.server.commands.SuperGMCommand$開始玩家任務",
+  "fields":[{"name":"enabled"}],
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"Net.server.commands.SuperGMCommand$頻道廣",
+  "fields":[{"name":"enabled"}],
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"Server.MapleServerHandler",
+  "methods":[{"name":"channelActive","parameterTypes":["io.netty.channel.ChannelHandlerContext"] }, {"name":"channelInactive","parameterTypes":["io.netty.channel.ChannelHandlerContext"] }, {"name":"channelRead","parameterTypes":["io.netty.channel.ChannelHandlerContext","java.lang.Object"] }, {"name":"exceptionCaught","parameterTypes":["io.netty.channel.ChannelHandlerContext","java.lang.Throwable"] }, {"name":"userEventTriggered","parameterTypes":["io.netty.channel.ChannelHandlerContext","java.lang.Object"] }]
+},
+{
+  "name":"Server.channel.handler.GuildHandler",
+  "queryAllPublicMethods":true
+},
+{
+  "name":"Server.channel.handler.PlayerHandler",
+  "queryAllPublicMethods":true
+},
+{
+  "name":"Server.netty.MaplePacketDecoder"
+},
+{
+  "name":"Server.netty.MaplePacketEncoder"
+},
+{
+  "name":"Server.netty.ServerInitializer"
+},
+{
+  "name":"SwordieX.handlers.social.Talk.Npc",
+  "queryAllPublicMethods":true
+},
+{
+  "name":"SwordieX.handlers.social.Talk.Portal",
+  "queryAllPublicMethods":true
+},
+{
+  "name":"[B"
+},
+{
+  "name":"[C"
+},
+{
+  "name":"[D"
+},
+{
+  "name":"[F"
+},
+{
+  "name":"[I"
+},
+{
+  "name":"[J"
+},
+{
+  "name":"[Ljava.lang.String;"
+},
+{
+  "name":"[Ljavax.management.openmbean.CompositeData;"
+},
+{
+  "name":"[S"
+},
+{
+  "name":"[Z"
+},
+{
+  "name":"ch.qos.logback.classic.encoder.PatternLayoutEncoder",
+  "queryAllPublicMethods":true,
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"ch.qos.logback.classic.joran.SerializedModelConfigurator",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"ch.qos.logback.classic.pattern.DateConverter",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"ch.qos.logback.classic.pattern.LevelConverter",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"ch.qos.logback.classic.pattern.LineSeparatorConverter",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"ch.qos.logback.classic.pattern.LoggerConverter",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"ch.qos.logback.classic.pattern.MessageConverter",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"ch.qos.logback.classic.pattern.MethodOfCallerConverter",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"ch.qos.logback.classic.pattern.ThreadConverter",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"ch.qos.logback.classic.util.DefaultJoranConfigurator",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"ch.qos.logback.core.ConsoleAppender",
+  "queryAllPublicMethods":true,
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"ch.qos.logback.core.FileAppender",
+  "methods":[{"name":"setPrudent","parameterTypes":["boolean"] }, {"name":"valueOf","parameterTypes":["java.lang.String"] }]
+},
+{
+  "name":"ch.qos.logback.core.OutputStreamAppender",
+  "methods":[{"name":"setEncoder","parameterTypes":["ch.qos.logback.core.encoder.Encoder"] }]
+},
+{
+  "name":"ch.qos.logback.core.encoder.Encoder",
+  "methods":[{"name":"valueOf","parameterTypes":["java.lang.String"] }]
+},
+{
+  "name":"ch.qos.logback.core.encoder.LayoutWrappingEncoder",
+  "methods":[{"name":"setParent","parameterTypes":["ch.qos.logback.core.spi.ContextAware"] }]
+},
+{
+  "name":"ch.qos.logback.core.pattern.PatternLayoutEncoderBase",
+  "methods":[{"name":"setPattern","parameterTypes":["java.lang.String"] }]
+},
+{
+  "name":"ch.qos.logback.core.pattern.color.BlueCompositeConverter",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"ch.qos.logback.core.pattern.color.CyanCompositeConverter",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"ch.qos.logback.core.pattern.color.GreenCompositeConverter",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"ch.qos.logback.core.pattern.color.RedCompositeConverter",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"ch.qos.logback.core.pattern.color.YellowCompositeConverter",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"ch.qos.logback.core.rolling.RollingFileAppender",
+  "queryAllPublicMethods":true,
+  "methods":[{"name":"<init>","parameterTypes":[] }, {"name":"setFile","parameterTypes":["java.lang.String"] }, {"name":"setRollingPolicy","parameterTypes":["ch.qos.logback.core.rolling.RollingPolicy"] }]
+},
+{
+  "name":"ch.qos.logback.core.rolling.RollingPolicy",
+  "methods":[{"name":"valueOf","parameterTypes":["java.lang.String"] }]
+},
+{
+  "name":"ch.qos.logback.core.rolling.RollingPolicyBase",
+  "methods":[{"name":"setFileNamePattern","parameterTypes":["java.lang.String"] }, {"name":"setParent","parameterTypes":["ch.qos.logback.core.FileAppender"] }]
+},
+{
+  "name":"ch.qos.logback.core.rolling.SizeAndTimeBasedRollingPolicy",
+  "queryAllPublicMethods":true,
+  "methods":[{"name":"<init>","parameterTypes":[] }, {"name":"setMaxFileSize","parameterTypes":["ch.qos.logback.core.util.FileSize"] }]
+},
+{
+  "name":"ch.qos.logback.core.rolling.TimeBasedRollingPolicy",
+  "methods":[{"name":"setMaxHistory","parameterTypes":["int"] }, {"name":"setTotalSizeCap","parameterTypes":["ch.qos.logback.core.util.FileSize"] }]
+},
+{
+  "name":"ch.qos.logback.core.rolling.helper.DateTokenConverter",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"ch.qos.logback.core.rolling.helper.IntegerTokenConverter",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"ch.qos.logback.core.spi.ContextAware",
+  "methods":[{"name":"valueOf","parameterTypes":["java.lang.String"] }]
+},
+{
+  "name":"ch.qos.logback.core.util.FileSize",
+  "methods":[{"name":"valueOf","parameterTypes":["java.lang.String"] }]
+},
+{
+  "name":"com.alibaba.druid.mock.MockDriver",
+  "queryAllPublicConstructors":true
+},
+{
+  "name":"com.alibaba.druid.mock.MockDriverMBean",
+  "queryAllPublicMethods":true
+},
+{
+  "name":"com.alibaba.druid.pool.DruidAbstractDataSource",
+  "fields":[{"name":"cachedPreparedStatementCount"}, {"name":"cachedPreparedStatementDeleteCount"}, {"name":"cachedPreparedStatementHitCount"}, {"name":"cachedPreparedStatementMissCount"}, {"name":"closedPreparedStatementCount"}, {"name":"commitCount"}, {"name":"connectionIdSeed"}, {"name":"createCount"}, {"name":"createErrorCount"}, {"name":"createStartNanos"}, {"name":"creatingCount"}, {"name":"destroyCount"}, {"name":"directCreateCount"}, {"name":"dupCloseCount"}, {"name":"errorCount"}, {"name":"executeBatchCount"}, {"name":"executeCount"}, {"name":"executeQueryCount"}, {"name":"executeUpdateCount"}, {"name":"failContinuous"}, {"name":"failContinuousTimeMillis"}, {"name":"filterChain"}, {"name":"metaDataIdSeed"}, {"name":"preparedStatementCount"}, {"name":"resultSetIdSeed"}, {"name":"rollbackCount"}, {"name":"startTransactionCount"}, {"name":"statementIdSeed"}, {"name":"transactionIdSeed"}]
+},
+{
+  "name":"com.alibaba.druid.pool.DruidDataSource",
+  "queryAllPublicConstructors":true,
+  "fields":[{"name":"connectErrorCount"}, {"name":"createDirectCount"}, {"name":"createTaskIdSeed"}, {"name":"discardErrorCount"}, {"name":"keepAliveCheckErrorCount"}, {"name":"recycleErrorCount"}, {"name":"resetCount"}]
+},
+{
+  "name":"com.alibaba.druid.pool.DruidDataSourceMBean",
+  "queryAllPublicMethods":true
+},
+{
+  "name":"com.alibaba.druid.pool.DruidPooledConnection",
+  "fields":[{"name":"closing"}]
+},
+{
+  "name":"com.alibaba.druid.proxy.DruidDriver",
+  "queryAllPublicConstructors":true
+},
+{
+  "name":"com.alibaba.druid.proxy.DruidDriverMBean",
+  "queryAllPublicMethods":true
+},
+{
+  "name":"com.alibaba.druid.stat.DruidDataSourceStatManager",
+  "queryAllPublicConstructors":true
+},
+{
+  "name":"com.alibaba.druid.stat.DruidDataSourceStatManagerMBean",
+  "queryAllPublicMethods":true
+},
+{
+  "name":"com.alibaba.druid.stat.DruidStatService",
+  "queryAllPublicConstructors":true
+},
+{
+  "name":"com.alibaba.druid.stat.DruidStatServiceMBean",
+  "queryAllPublicMethods":true
+},
+{
+  "name":"com.alibaba.druid.stat.JdbcSqlStat",
+  "fields":[{"name":"blobOpenCount"}, {"name":"clobOpenCount"}, {"name":"concurrentMax"}, {"name":"executeAndResultHoldTime_0_1"}, {"name":"executeAndResultHoldTime_1000000_more"}, {"name":"executeAndResultHoldTime_100000_1000000"}, {"name":"executeAndResultHoldTime_10000_100000"}, {"name":"executeAndResultHoldTime_1000_10000"}, {"name":"executeAndResultHoldTime_100_1000"}, {"name":"executeAndResultHoldTime_10_100"}, {"name":"executeAndResultHoldTime_1_10"}, {"name":"executeAndResultSetHoldTime"}, {"name":"executeBatchSizeMax"}, {"name":"executeBatchSizeTotal"}, {"name":"executeErrorCount"}, {"name":"executeSpanNanoMax"}, {"name":"executeSpanNanoTotal"}, {"name":"executeSuccessCount"}, {"name":"fetchRowCount"}, {"name":"fetchRowCountMax"}, {"name":"fetchRowCount_0_1"}, {"name":"fetchRowCount_10000_more"}, {"name":"fetchRowCount_1000_10000"}, {"name":"fetchRowCount_100_1000"}, {"name":"fetchRowCount_10_100"}, {"name":"fetchRowCount_1_10"}, {"name":"histogram_0_1"}, {"name":"histogram_1000000_more"}, {"name":"histogram_100000_1000000"}, {"name":"histogram_10000_100000"}, {"name":"histogram_1000_10000"}, {"name":"histogram_100_1000"}, {"name":"histogram_10_100"}, {"name":"histogram_1_10"}, {"name":"inTransactionCount"}, {"name":"inputStreamOpenCount"}, {"name":"readBytesLength"}, {"name":"readStringLength"}, {"name":"readerOpenCount"}, {"name":"resultSetHoldTimeNano"}, {"name":"runningCount"}, {"name":"updateCount"}, {"name":"updateCountMax"}, {"name":"updateCount_0_1"}, {"name":"updateCount_10000_more"}, {"name":"updateCount_1000_10000"}, {"name":"updateCount_100_1000"}, {"name":"updateCount_10_100"}, {"name":"updateCount_1_10"}]
+},
+{
+  "name":"com.alibaba.druid.support.logging.SLF4JImpl",
+  "methods":[{"name":"<init>","parameterTypes":["java.lang.String"] }]
+},
+{
+  "name":"com.mysql.jdbc.AbandonedConnectionCleanupThread"
+},
+{
+  "name":"com.mysql.jdbc.ConnectionPropertiesImpl",
+  "allDeclaredFields":true
+},
+{
+  "name":"com.mysql.jdbc.Driver",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"com.mysql.jdbc.JDBC42PreparedStatement",
+  "methods":[{"name":"<init>","parameterTypes":["com.mysql.jdbc.MySQLConnection","java.lang.String"] }, {"name":"<init>","parameterTypes":["com.mysql.jdbc.MySQLConnection","java.lang.String","java.lang.String"] }, {"name":"<init>","parameterTypes":["com.mysql.jdbc.MySQLConnection","java.lang.String","java.lang.String","com.mysql.jdbc.PreparedStatement$ParseInfo"] }]
+},
+{
+  "name":"com.mysql.jdbc.JDBC42ResultSet",
+  "methods":[{"name":"<init>","parameterTypes":["long","long","com.mysql.jdbc.MySQLConnection","com.mysql.jdbc.StatementImpl"] }, {"name":"<init>","parameterTypes":["java.lang.String","com.mysql.jdbc.Field[]","com.mysql.jdbc.RowData","com.mysql.jdbc.MySQLConnection","com.mysql.jdbc.StatementImpl"] }]
+},
+{
+  "name":"com.mysql.jdbc.JDBC42UpdatableResultSet",
+  "methods":[{"name":"<init>","parameterTypes":["java.lang.String","com.mysql.jdbc.Field[]","com.mysql.jdbc.RowData","com.mysql.jdbc.MySQLConnection","com.mysql.jdbc.StatementImpl"] }]
+},
+{
+  "name":"com.mysql.jdbc.JDBC4Connection",
+  "methods":[{"name":"<init>","parameterTypes":["java.lang.String","int","java.util.Properties","java.lang.String","java.lang.String"] }]
+},
+{
+  "name":"com.mysql.jdbc.JDBC4DatabaseMetaData",
+  "methods":[{"name":"<init>","parameterTypes":["com.mysql.jdbc.MySQLConnection","java.lang.String"] }]
+},
+{
+  "name":"com.mysql.jdbc.JDBC4DatabaseMetaDataUsingInfoSchema",
+  "methods":[{"name":"<init>","parameterTypes":["com.mysql.jdbc.MySQLConnection","java.lang.String"] }]
+},
+{
+  "name":"com.mysql.jdbc.StandardSocketFactory",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"com.mysql.jdbc.log.StandardLogger",
+  "methods":[{"name":"<init>","parameterTypes":["java.lang.String"] }]
+},
+{
+  "name":"com.sun.crypto.provider.AESCipher$General",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"com.sun.crypto.provider.DESedeCipher",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"com.sun.management.GarbageCollectorMXBean",
+  "queryAllPublicMethods":true
+},
+{
+  "name":"com.sun.management.GcInfo",
+  "queryAllPublicMethods":true
+},
+{
+  "name":"com.sun.management.HotSpotDiagnosticMXBean",
+  "queryAllPublicMethods":true
+},
+{
+  "name":"com.sun.management.OperatingSystemMXBean",
+  "queryAllPublicMethods":true
+},
+{
+  "name":"com.sun.management.ThreadMXBean",
+  "queryAllPublicMethods":true
+},
+{
+  "name":"com.sun.management.VMOption",
+  "queryAllPublicMethods":true
+},
+{
+  "name":"com.sun.management.internal.GarbageCollectorExtImpl",
+  "queryAllPublicConstructors":true
+},
+{
+  "name":"com.sun.management.internal.HotSpotDiagnostic",
+  "queryAllPublicConstructors":true
+},
+{
+  "name":"com.sun.management.internal.HotSpotThreadImpl",
+  "queryAllPublicConstructors":true
+},
+{
+  "name":"com.sun.management.internal.OperatingSystemImpl",
+  "queryAllPublicConstructors":true
+},
+{
+  "name":"com.sun.org.apache.xerces.internal.jaxp.SAXParserFactoryImpl",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"io.netty.bootstrap.ServerBootstrap$1"
+},
+{
+  "name":"io.netty.bootstrap.ServerBootstrap$ServerBootstrapAcceptor",
+  "methods":[{"name":"channelRead","parameterTypes":["io.netty.channel.ChannelHandlerContext","java.lang.Object"] }, {"name":"exceptionCaught","parameterTypes":["io.netty.channel.ChannelHandlerContext","java.lang.Throwable"] }]
+},
+{
+  "name":"io.netty.buffer.AbstractByteBufAllocator",
+  "queryAllDeclaredMethods":true
+},
+{
+  "name":"io.netty.buffer.AbstractReferenceCountedByteBuf",
+  "fields":[{"name":"refCnt"}]
+},
+{
+  "name":"io.netty.channel.AbstractChannelHandlerContext",
+  "fields":[{"name":"handlerState"}]
+},
+{
+  "name":"io.netty.channel.ChannelDuplexHandler",
+  "methods":[{"name":"bind","parameterTypes":["io.netty.channel.ChannelHandlerContext","java.net.SocketAddress","io.netty.channel.ChannelPromise"] }, {"name":"close","parameterTypes":["io.netty.channel.ChannelHandlerContext","io.netty.channel.ChannelPromise"] }, {"name":"connect","parameterTypes":["io.netty.channel.ChannelHandlerContext","java.net.SocketAddress","java.net.SocketAddress","io.netty.channel.ChannelPromise"] }, {"name":"deregister","parameterTypes":["io.netty.channel.ChannelHandlerContext","io.netty.channel.ChannelPromise"] }, {"name":"disconnect","parameterTypes":["io.netty.channel.ChannelHandlerContext","io.netty.channel.ChannelPromise"] }, {"name":"flush","parameterTypes":["io.netty.channel.ChannelHandlerContext"] }, {"name":"read","parameterTypes":["io.netty.channel.ChannelHandlerContext"] }]
+},
+{
+  "name":"io.netty.channel.ChannelHandlerAdapter",
+  "methods":[{"name":"exceptionCaught","parameterTypes":["io.netty.channel.ChannelHandlerContext","java.lang.Throwable"] }]
+},
+{
+  "name":"io.netty.channel.ChannelInboundHandlerAdapter",
+  "methods":[{"name":"channelActive","parameterTypes":["io.netty.channel.ChannelHandlerContext"] }, {"name":"channelInactive","parameterTypes":["io.netty.channel.ChannelHandlerContext"] }, {"name":"channelRead","parameterTypes":["io.netty.channel.ChannelHandlerContext","java.lang.Object"] }, {"name":"channelReadComplete","parameterTypes":["io.netty.channel.ChannelHandlerContext"] }, {"name":"channelRegistered","parameterTypes":["io.netty.channel.ChannelHandlerContext"] }, {"name":"channelUnregistered","parameterTypes":["io.netty.channel.ChannelHandlerContext"] }, {"name":"channelWritabilityChanged","parameterTypes":["io.netty.channel.ChannelHandlerContext"] }, {"name":"exceptionCaught","parameterTypes":["io.netty.channel.ChannelHandlerContext","java.lang.Throwable"] }, {"name":"userEventTriggered","parameterTypes":["io.netty.channel.ChannelHandlerContext","java.lang.Object"] }]
+},
+{
+  "name":"io.netty.channel.ChannelInitializer",
+  "methods":[{"name":"channelRegistered","parameterTypes":["io.netty.channel.ChannelHandlerContext"] }, {"name":"exceptionCaught","parameterTypes":["io.netty.channel.ChannelHandlerContext","java.lang.Throwable"] }]
+},
+{
+  "name":"io.netty.channel.ChannelOutboundBuffer",
+  "fields":[{"name":"totalPendingSize"}, {"name":"unwritable"}]
+},
+{
+  "name":"io.netty.channel.ChannelOutboundHandlerAdapter",
+  "methods":[{"name":"bind","parameterTypes":["io.netty.channel.ChannelHandlerContext","java.net.SocketAddress","io.netty.channel.ChannelPromise"] }, {"name":"close","parameterTypes":["io.netty.channel.ChannelHandlerContext","io.netty.channel.ChannelPromise"] }, {"name":"connect","parameterTypes":["io.netty.channel.ChannelHandlerContext","java.net.SocketAddress","java.net.SocketAddress","io.netty.channel.ChannelPromise"] }, {"name":"deregister","parameterTypes":["io.netty.channel.ChannelHandlerContext","io.netty.channel.ChannelPromise"] }, {"name":"disconnect","parameterTypes":["io.netty.channel.ChannelHandlerContext","io.netty.channel.ChannelPromise"] }, {"name":"flush","parameterTypes":["io.netty.channel.ChannelHandlerContext"] }, {"name":"read","parameterTypes":["io.netty.channel.ChannelHandlerContext"] }]
+},
+{
+  "name":"io.netty.channel.DefaultChannelConfig",
+  "fields":[{"name":"autoRead"}, {"name":"writeBufferWaterMark"}]
+},
+{
+  "name":"io.netty.channel.DefaultChannelPipeline",
+  "fields":[{"name":"estimatorHandle"}]
+},
+{
+  "name":"io.netty.channel.DefaultChannelPipeline$HeadContext",
+  "methods":[{"name":"bind","parameterTypes":["io.netty.channel.ChannelHandlerContext","java.net.SocketAddress","io.netty.channel.ChannelPromise"] }, {"name":"channelActive","parameterTypes":["io.netty.channel.ChannelHandlerContext"] }, {"name":"channelInactive","parameterTypes":["io.netty.channel.ChannelHandlerContext"] }, {"name":"channelRead","parameterTypes":["io.netty.channel.ChannelHandlerContext","java.lang.Object"] }, {"name":"channelReadComplete","parameterTypes":["io.netty.channel.ChannelHandlerContext"] }, {"name":"channelRegistered","parameterTypes":["io.netty.channel.ChannelHandlerContext"] }, {"name":"channelUnregistered","parameterTypes":["io.netty.channel.ChannelHandlerContext"] }, {"name":"channelWritabilityChanged","parameterTypes":["io.netty.channel.ChannelHandlerContext"] }, {"name":"close","parameterTypes":["io.netty.channel.ChannelHandlerContext","io.netty.channel.ChannelPromise"] }, {"name":"connect","parameterTypes":["io.netty.channel.ChannelHandlerContext","java.net.SocketAddress","java.net.SocketAddress","io.netty.channel.ChannelPromise"] }, {"name":"deregister","parameterTypes":["io.netty.channel.ChannelHandlerContext","io.netty.channel.ChannelPromise"] }, {"name":"disconnect","parameterTypes":["io.netty.channel.ChannelHandlerContext","io.netty.channel.ChannelPromise"] }, {"name":"exceptionCaught","parameterTypes":["io.netty.channel.ChannelHandlerContext","java.lang.Throwable"] }, {"name":"flush","parameterTypes":["io.netty.channel.ChannelHandlerContext"] }, {"name":"read","parameterTypes":["io.netty.channel.ChannelHandlerContext"] }, {"name":"userEventTriggered","parameterTypes":["io.netty.channel.ChannelHandlerContext","java.lang.Object"] }, {"name":"write","parameterTypes":["io.netty.channel.ChannelHandlerContext","java.lang.Object","io.netty.channel.ChannelPromise"] }]
+},
+{
+  "name":"io.netty.channel.DefaultChannelPipeline$TailContext",
+  "methods":[{"name":"channelActive","parameterTypes":["io.netty.channel.ChannelHandlerContext"] }, {"name":"channelInactive","parameterTypes":["io.netty.channel.ChannelHandlerContext"] }, {"name":"channelRead","parameterTypes":["io.netty.channel.ChannelHandlerContext","java.lang.Object"] }, {"name":"channelReadComplete","parameterTypes":["io.netty.channel.ChannelHandlerContext"] }, {"name":"channelRegistered","parameterTypes":["io.netty.channel.ChannelHandlerContext"] }, {"name":"channelUnregistered","parameterTypes":["io.netty.channel.ChannelHandlerContext"] }, {"name":"channelWritabilityChanged","parameterTypes":["io.netty.channel.ChannelHandlerContext"] }, {"name":"exceptionCaught","parameterTypes":["io.netty.channel.ChannelHandlerContext","java.lang.Throwable"] }, {"name":"userEventTriggered","parameterTypes":["io.netty.channel.ChannelHandlerContext","java.lang.Object"] }]
+},
+{
+  "name":"io.netty.channel.socket.nio.NioServerSocketChannel",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"io.netty.handler.codec.ByteToMessageDecoder",
+  "methods":[{"name":"channelInactive","parameterTypes":["io.netty.channel.ChannelHandlerContext"] }, {"name":"channelRead","parameterTypes":["io.netty.channel.ChannelHandlerContext","java.lang.Object"] }, {"name":"channelReadComplete","parameterTypes":["io.netty.channel.ChannelHandlerContext"] }, {"name":"userEventTriggered","parameterTypes":["io.netty.channel.ChannelHandlerContext","java.lang.Object"] }]
+},
+{
+  "name":"io.netty.handler.codec.MessageToByteEncoder",
+  "methods":[{"name":"write","parameterTypes":["io.netty.channel.ChannelHandlerContext","java.lang.Object","io.netty.channel.ChannelPromise"] }]
+},
+{
+  "name":"io.netty.handler.timeout.IdleStateHandler",
+  "methods":[{"name":"channelActive","parameterTypes":["io.netty.channel.ChannelHandlerContext"] }, {"name":"channelInactive","parameterTypes":["io.netty.channel.ChannelHandlerContext"] }, {"name":"channelRead","parameterTypes":["io.netty.channel.ChannelHandlerContext","java.lang.Object"] }, {"name":"channelReadComplete","parameterTypes":["io.netty.channel.ChannelHandlerContext"] }, {"name":"channelRegistered","parameterTypes":["io.netty.channel.ChannelHandlerContext"] }, {"name":"write","parameterTypes":["io.netty.channel.ChannelHandlerContext","java.lang.Object","io.netty.channel.ChannelPromise"] }]
+},
+{
+  "name":"io.netty.util.DefaultAttributeMap",
+  "fields":[{"name":"attributes"}]
+},
+{
+  "name":"io.netty.util.DefaultAttributeMap$DefaultAttribute",
+  "fields":[{"name":"attributeMap"}]
+},
+{
+  "name":"io.netty.util.Recycler$DefaultHandle",
+  "fields":[{"name":"state"}]
+},
+{
+  "name":"io.netty.util.ReferenceCountUtil",
+  "queryAllDeclaredMethods":true
+},
+{
+  "name":"io.netty.util.ResourceLeakDetector$DefaultResourceLeak",
+  "fields":[{"name":"droppedRecords"}, {"name":"head"}]
+},
+{
+  "name":"io.netty.util.concurrent.DefaultPromise",
+  "fields":[{"name":"result"}]
+},
+{
+  "name":"io.netty.util.concurrent.SingleThreadEventExecutor",
+  "fields":[{"name":"state"}, {"name":"threadProperties"}]
+},
+{
+  "name":"io.netty.util.internal.shaded.org.jctools.queues.BaseMpscLinkedArrayQueueColdProducerFields",
+  "fields":[{"name":"producerLimit"}]
+},
+{
+  "name":"io.netty.util.internal.shaded.org.jctools.queues.BaseMpscLinkedArrayQueueConsumerFields",
+  "fields":[{"name":"consumerIndex"}]
+},
+{
+  "name":"io.netty.util.internal.shaded.org.jctools.queues.BaseMpscLinkedArrayQueueProducerFields",
+  "fields":[{"name":"producerIndex"}]
+},
+{
+  "name":"io.netty.util.internal.shaded.org.jctools.queues.MpscArrayQueueConsumerIndexField",
+  "fields":[{"name":"consumerIndex"}]
+},
+{
+  "name":"io.netty.util.internal.shaded.org.jctools.queues.MpscArrayQueueProducerIndexField",
+  "fields":[{"name":"producerIndex"}]
+},
+{
+  "name":"io.netty.util.internal.shaded.org.jctools.queues.MpscArrayQueueProducerLimitField",
+  "fields":[{"name":"producerLimit"}]
+},
+{
+  "name":"java.io.FilePermission"
+},
+{
+  "name":"java.lang.Boolean",
+  "fields":[{"name":"TYPE"}]
+},
+{
+  "name":"java.lang.Byte",
+  "fields":[{"name":"TYPE"}]
+},
+{
+  "name":"java.lang.Character",
+  "fields":[{"name":"TYPE"}]
+},
+{
+  "name":"java.lang.Deprecated",
+  "queryAllPublicMethods":true
+},
+{
+  "name":"java.lang.Double",
+  "fields":[{"name":"TYPE"}]
+},
+{
+  "name":"java.lang.Float",
+  "fields":[{"name":"TYPE"}]
+},
+{
+  "name":"java.lang.Integer",
+  "fields":[{"name":"TYPE"}]
+},
+{
+  "name":"java.lang.Long",
+  "fields":[{"name":"TYPE"}]
+},
+{
+  "name":"java.lang.ProcessHandle",
+  "methods":[{"name":"current","parameterTypes":[] }, {"name":"pid","parameterTypes":[] }]
+},
+{
+  "name":"java.lang.RuntimePermission"
+},
+{
+  "name":"java.lang.Short",
+  "fields":[{"name":"TYPE"}]
+},
+{
+  "name":"java.lang.StackTraceElement",
+  "queryAllPublicMethods":true
+},
+{
+  "name":"java.lang.String",
+  "fields":[{"name":"TYPE"}]
+},
+{
+  "name":"java.lang.System",
+  "methods":[{"name":"nanoTime","parameterTypes":[] }]
+},
+{
+  "name":"java.lang.Thread",
+  "fields":[{"name":"threadLocalRandomProbe"}]
+},
+{
+  "name":"java.lang.Void",
+  "fields":[{"name":"TYPE"}]
+},
+{
+  "name":"java.lang.management.BufferPoolMXBean",
+  "queryAllPublicMethods":true
+},
+{
+  "name":"java.lang.management.ClassLoadingMXBean",
+  "queryAllPublicMethods":true
+},
+{
+  "name":"java.lang.management.CompilationMXBean",
+  "queryAllPublicMethods":true
+},
+{
+  "name":"java.lang.management.LockInfo",
+  "queryAllPublicMethods":true
+},
+{
+  "name":"java.lang.management.ManagementPermission",
+  "methods":[{"name":"<init>","parameterTypes":["java.lang.String"] }]
+},
+{
+  "name":"java.lang.management.MemoryMXBean",
+  "queryAllPublicMethods":true
+},
+{
+  "name":"java.lang.management.MemoryManagerMXBean",
+  "queryAllPublicMethods":true
+},
+{
+  "name":"java.lang.management.MemoryPoolMXBean",
+  "queryAllPublicMethods":true
+},
+{
+  "name":"java.lang.management.MemoryUsage",
+  "queryAllPublicMethods":true
+},
+{
+  "name":"java.lang.management.MonitorInfo",
+  "queryAllPublicMethods":true
+},
+{
+  "name":"java.lang.management.PlatformLoggingMXBean",
+  "queryAllPublicMethods":true,
+  "methods":[{"name":"getLoggerLevel","parameterTypes":["java.lang.String"] }, {"name":"getLoggerNames","parameterTypes":[] }, {"name":"getParentLoggerName","parameterTypes":["java.lang.String"] }, {"name":"setLoggerLevel","parameterTypes":["java.lang.String","java.lang.String"] }]
+},
+{
+  "name":"java.lang.management.RuntimeMXBean",
+  "queryAllPublicMethods":true
+},
+{
+  "name":"java.lang.management.ThreadInfo",
+  "queryAllPublicMethods":true
+},
+{
+  "name":"java.math.BigDecimal",
+  "methods":[{"name":"toPlainString","parameterTypes":[] }]
+},
+{
+  "name":"java.math.BigInteger"
+},
+{
+  "name":"java.net.NetPermission"
+},
+{
+  "name":"java.net.SocketPermission"
+},
+{
+  "name":"java.net.URLPermission",
+  "methods":[{"name":"<init>","parameterTypes":["java.lang.String","java.lang.String"] }]
+},
+{
+  "name":"java.nio.Bits",
+  "fields":[{"name":"MAX_MEMORY"}, {"name":"UNALIGNED"}]
+},
+{
+  "name":"java.nio.Buffer",
+  "fields":[{"name":"address"}]
+},
+{
+  "name":"java.nio.ByteBuffer",
+  "methods":[{"name":"alignedSlice","parameterTypes":["int"] }]
+},
+{
+  "name":"java.nio.DirectByteBuffer",
+  "methods":[{"name":"<init>","parameterTypes":["long","long"] }]
+},
+{
+  "name":"java.nio.channels.spi.SelectorProvider",
+  "methods":[{"name":"openServerSocketChannel","parameterTypes":["java.net.ProtocolFamily"] }, {"name":"openSocketChannel","parameterTypes":["java.net.ProtocolFamily"] }]
+},
+{
+  "name":"java.security.AllPermission"
+},
+{
+  "name":"java.security.SecureRandomParameters"
+},
+{
+  "name":"java.security.SecurityPermission"
+},
+{
+  "name":"java.sql.Blob",
+  "methods":[{"name":"truncate","parameterTypes":["long"] }]
+},
+{
+  "name":"java.sql.JDBCType"
+},
+{
+  "name":"java.sql.NClob"
+},
+{
+  "name":"java.util.Date"
+},
+{
+  "name":"java.util.PropertyPermission",
+  "methods":[{"name":"<init>","parameterTypes":["java.lang.String","java.lang.String"] }]
+},
+{
+  "name":"java.util.concurrent.ForkJoinTask",
+  "fields":[{"name":"aux"}, {"name":"status"}]
+},
+{
+  "name":"java.util.concurrent.atomic.AtomicBoolean",
+  "fields":[{"name":"value"}]
+},
+{
+  "name":"java.util.concurrent.atomic.AtomicReference",
+  "fields":[{"name":"value"}]
+},
+{
+  "name":"java.util.concurrent.atomic.Striped64",
+  "fields":[{"name":"base"}, {"name":"cellsBusy"}]
+},
+{
+  "name":"java.util.logging.LogManager",
+  "methods":[{"name":"getLoggingMXBean","parameterTypes":[] }]
+},
+{
+  "name":"java.util.logging.LoggingMXBean",
+  "queryAllPublicMethods":true
+},
+{
+  "name":"javax.management.MBeanOperationInfo",
+  "queryAllPublicMethods":true,
+  "methods":[{"name":"getSignature","parameterTypes":[] }]
+},
+{
+  "name":"javax.management.MBeanServerBuilder",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"javax.management.ObjectName"
+},
+{
+  "name":"javax.management.StandardEmitterMBean",
+  "methods":[{"name":"cacheMBeanInfo","parameterTypes":["javax.management.MBeanInfo"] }, {"name":"getCachedMBeanInfo","parameterTypes":[] }, {"name":"getMBeanInfo","parameterTypes":[] }]
+},
+{
+  "name":"javax.management.openmbean.CompositeData"
+},
+{
+  "name":"javax.management.openmbean.OpenMBeanOperationInfoSupport"
+},
+{
+  "name":"javax.management.openmbean.TabularData"
+},
+{
+  "name":"javax.smartcardio.CardPermission"
+},
+{
+  "name":"jdk.internal.misc.Unsafe",
+  "methods":[{"name":"getUnsafe","parameterTypes":[] }]
+},
+{
+  "name":"jdk.management.jfr.ConfigurationInfo",
+  "queryAllPublicMethods":true
+},
+{
+  "name":"jdk.management.jfr.EventTypeInfo",
+  "queryAllPublicMethods":true
+},
+{
+  "name":"jdk.management.jfr.FlightRecorderMXBean",
+  "queryAllPublicMethods":true
+},
+{
+  "name":"jdk.management.jfr.FlightRecorderMXBeanImpl",
+  "queryAllPublicConstructors":true,
+  "methods":[{"name":"cacheMBeanInfo","parameterTypes":["javax.management.MBeanInfo"] }, {"name":"getCachedMBeanInfo","parameterTypes":[] }, {"name":"getMBeanInfo","parameterTypes":[] }, {"name":"getNotificationInfo","parameterTypes":[] }]
+},
+{
+  "name":"jdk.management.jfr.RecordingInfo",
+  "queryAllPublicMethods":true
+},
+{
+  "name":"jdk.management.jfr.SettingDescriptorInfo",
+  "queryAllPublicMethods":true
+},
+{
+  "name":"org.graalvm.polyglot.io.IOHelper",
+  "fields":[{"name":"ACCESS"}]
+},
+{
+  "name":"org.graalvm.polyglot.management.Management",
+  "fields":[{"name":"ACCESS"}]
+},
+{
+  "name":"org.slf4j.Logger"
+},
+{
+  "name":"sun.management.ClassLoadingImpl",
+  "queryAllPublicConstructors":true
+},
+{
+  "name":"sun.management.CompilationImpl",
+  "queryAllPublicConstructors":true
+},
+{
+  "name":"sun.management.ManagementFactoryHelper$1",
+  "queryAllPublicConstructors":true
+},
+{
+  "name":"sun.management.ManagementFactoryHelper$PlatformLoggingImpl",
+  "queryAllPublicConstructors":true
+},
+{
+  "name":"sun.management.MemoryImpl",
+  "queryAllPublicConstructors":true
+},
+{
+  "name":"sun.management.MemoryManagerImpl",
+  "queryAllPublicConstructors":true
+},
+{
+  "name":"sun.management.MemoryPoolImpl",
+  "queryAllPublicConstructors":true
+},
+{
+  "name":"sun.management.RuntimeImpl",
+  "queryAllPublicConstructors":true
+},
+{
+  "name":"sun.misc.Unsafe",
+  "fields":[{"name":"theUnsafe"}],
+  "methods":[{"name":"copyMemory","parameterTypes":["java.lang.Object","long","java.lang.Object","long","long"] }, {"name":"getAndAddLong","parameterTypes":["java.lang.Object","long","long"] }, {"name":"getAndSetObject","parameterTypes":["java.lang.Object","long","java.lang.Object"] }, {"name":"invokeCleaner","parameterTypes":["java.nio.ByteBuffer"] }, {"name":"storeFence","parameterTypes":[] }]
+},
+{
+  "name":"sun.nio.ch.SelectorImpl",
+  "fields":[{"name":"publicSelectedKeys"}, {"name":"selectedKeys"}]
+},
+{
+  "name":"sun.security.provider.DRBG",
+  "methods":[{"name":"<init>","parameterTypes":["java.security.SecureRandomParameters"] }]
+},
+{
+  "name":"sun.security.provider.SHA",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"sun.security.provider.SHA2$SHA256",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+},
+{
+  "name":"sun.security.provider.SHA5$SHA512",
+  "methods":[{"name":"<init>","parameterTypes":[] }]
+}
+]

@@ -1,0 +1,2 @@
+player.setSelMapLoadNext()
+player.setSelMapLoadParty()

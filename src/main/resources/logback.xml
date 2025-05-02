@@ -1,0 +1,381 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configuration>
+    <property name="System_logPath" value="./logs/System"/>
+    <property name="User_logPath" value="./logs/User"/>
+    <property name="Debug_logPath" value="./logs/Debug"/>
+    <property name="FILE_LOG_PATTERN"
+              value="%d{yyyy-MM-dd HH:mm:ss.SSS} [%thread] %-5level %logger{36}.%M - %msg%n"/>
+
+    <!-- 控制面板 -->
+    <appender name="控制面板" class="ch.qos.logback.core.ConsoleAppender">
+        <encoder>
+            <pattern>%d{yyyy-MM-dd HH:mm:ss} %cyan([%thread]) %highlight(%-5level) - %highlight(%msg%n)
+            </pattern>
+        </encoder>
+    </appender>
+
+    <!-- 伺服端日誌 -->
+    <appender name="伺服端日誌" class="ch.qos.logback.core.rolling.RollingFileAppender">
+        <prudent>false</prudent>
+        <file>${System_logPath}/伺服端日誌.log</file>
+        <encoder>
+            <pattern>${FILE_LOG_PATTERN}</pattern>
+        </encoder>
+        <rollingPolicy class="ch.qos.logback.core.rolling.SizeAndTimeBasedRollingPolicy">
+            <fileNamePattern>${System_logPath}/Backup/%d{yyyy-MM-dd}/伺服端日誌-%d{yyyy-MM-dd}.%i.log</fileNamePattern>
+            <maxFileSize>20MB</maxFileSize>
+            <maxHistory>60</maxHistory>
+            <totalSizeCap>1GB</totalSizeCap>
+        </rollingPolicy>
+    </appender>
+
+    <!-- 資料庫日誌 -->
+    <appender name="資料庫日誌" class="ch.qos.logback.core.rolling.RollingFileAppender">
+        <prudent>false</prudent>
+        <file>${System_logPath}/資料庫日誌.log</file>
+        <encoder>
+            <pattern>${FILE_LOG_PATTERN}</pattern>
+        </encoder>
+        <rollingPolicy class="ch.qos.logback.core.rolling.SizeAndTimeBasedRollingPolicy">
+            <fileNamePattern>${System_logPath}/Backup/%d{yyyy-MM-dd}/資料庫日誌-%d{yyyy-MM-dd}.%i.log</fileNamePattern>
+            <maxFileSize>20MB</maxFileSize>
+            <maxHistory>60</maxHistory>
+            <totalSizeCap>1GB</totalSizeCap>
+        </rollingPolicy>
+    </appender>
+
+    <!-- 數據包日誌 -->
+    <appender name="數據包日誌" class="ch.qos.logback.core.rolling.RollingFileAppender">
+        <prudent>false</prudent>
+        <file>${System_logPath}/數據包日誌.log</file>
+        <encoder>
+            <pattern>${FILE_LOG_PATTERN}</pattern>
+        </encoder>
+        <rollingPolicy class="ch.qos.logback.core.rolling.SizeAndTimeBasedRollingPolicy">
+            <fileNamePattern>${System_logPath}/Backup/%d{yyyy-MM-dd}/數據包日誌-%d{yyyy-MM-dd}.%i.log.gz
+            </fileNamePattern>
+            <maxFileSize>20MB</maxFileSize>
+            <maxHistory>60</maxHistory>
+            <totalSizeCap>1GB</totalSizeCap>
+        </rollingPolicy>
+    </appender>
+
+    <!-- 腳本日誌 -->
+    <appender name="腳本日誌" class="ch.qos.logback.core.rolling.RollingFileAppender">
+        <prudent>false</prudent>
+        <file>${System_logPath}/腳本日誌.log</file>
+        <encoder>
+            <pattern>${FILE_LOG_PATTERN}</pattern>
+        </encoder>
+        <rollingPolicy class="ch.qos.logback.core.rolling.SizeAndTimeBasedRollingPolicy">
+            <fileNamePattern>${System_logPath}/Backup/%d{yyyy-MM-dd}/腳本日誌-%d{yyyy-MM-dd}.%i.log.gz</fileNamePattern>
+            <maxFileSize>20MB</maxFileSize>
+            <maxHistory>60</maxHistory>
+            <totalSizeCap>1GB</totalSizeCap>
+        </rollingPolicy>
+    </appender>
+
+    <!-- 移動日誌 -->
+    <appender name="移動日誌" class="ch.qos.logback.core.rolling.RollingFileAppender">
+        <prudent>false</prudent>
+        <file>${System_logPath}/移動日誌.log</file>
+        <encoder>
+            <pattern>${FILE_LOG_PATTERN}</pattern>
+        </encoder>
+        <rollingPolicy class="ch.qos.logback.core.rolling.SizeAndTimeBasedRollingPolicy">
+            <fileNamePattern>${System_logPath}/Backup/%d{yyyy-MM-dd}/移動日誌-%d{yyyy-MM-dd}.%i.log.gz</fileNamePattern>
+            <maxFileSize>20MB</maxFileSize>
+            <maxHistory>60</maxHistory>
+            <totalSizeCap>1GB</totalSizeCap>
+        </rollingPolicy>
+    </appender>
+
+    <!-- 攻擊日誌 -->
+    <appender name="攻擊日誌" class="ch.qos.logback.core.rolling.RollingFileAppender">
+        <prudent>false</prudent>
+        <file>${System_logPath}/攻擊日誌.log</file>
+        <encoder>
+            <pattern>${FILE_LOG_PATTERN}</pattern>
+        </encoder>
+        <rollingPolicy class="ch.qos.logback.core.rolling.SizeAndTimeBasedRollingPolicy">
+            <fileNamePattern>${System_logPath}/Backup/%d{yyyy-MM-dd}/攻擊日誌-%d{yyyy-MM-dd}.%i.log.gz</fileNamePattern>
+            <maxFileSize>20MB</maxFileSize>
+            <maxHistory>60</maxHistory>
+            <totalSizeCap>1GB</totalSizeCap>
+        </rollingPolicy>
+    </appender>
+
+    <!-- 地圖日誌 -->
+    <appender name="地圖日誌" class="ch.qos.logback.core.rolling.RollingFileAppender">
+        <prudent>false</prudent>
+        <file>${System_logPath}/地圖日誌.log</file>
+        <encoder>
+            <pattern>${FILE_LOG_PATTERN}</pattern>
+        </encoder>
+        <rollingPolicy class="ch.qos.logback.core.rolling.SizeAndTimeBasedRollingPolicy">
+            <fileNamePattern>${System_logPath}/Backup/%d{yyyy-MM-dd}/地圖日誌-%d{yyyy-MM-dd}.%i.log.gz</fileNamePattern>
+            <maxFileSize>20MB</maxFileSize>
+            <maxHistory>60</maxHistory>
+            <totalSizeCap>1GB</totalSizeCap>
+        </rollingPolicy>
+    </appender>
+
+    <!-- 數據包處理異常日誌 -->
+    <appender name="數據包處理異常日誌" class="ch.qos.logback.core.rolling.RollingFileAppender">
+        <prudent>false</prudent>
+        <file>${System_logPath}/數據包處理異常日誌.log</file>
+        <encoder>
+            <pattern>${FILE_LOG_PATTERN}</pattern>
+        </encoder>
+        <rollingPolicy class="ch.qos.logback.core.rolling.SizeAndTimeBasedRollingPolicy">
+            <fileNamePattern>${System_logPath}/Backup/%d{yyyy-MM-dd}/數據包處理異常日誌-%d{yyyy-MM-dd}.%i.log.gz
+            </fileNamePattern>
+            <maxFileSize>20MB</maxFileSize>
+            <maxHistory>60</maxHistory>
+            <totalSizeCap>1GB</totalSizeCap>
+        </rollingPolicy>
+    </appender>
+
+    <!-- 玩家交易 -->
+    <appender name="玩家交易" class="ch.qos.logback.core.rolling.RollingFileAppender">
+        <prudent>false</prudent>
+        <file>${User_logPath}/玩家交易.log</file>
+        <encoder>
+            <pattern>${FILE_LOG_PATTERN}</pattern>
+        </encoder>
+        <rollingPolicy class="ch.qos.logback.core.rolling.SizeAndTimeBasedRollingPolicy">
+            <fileNamePattern>${User_logPath}/Backup/%d{yyyy-MM-dd}/玩家交易-%d{yyyy-MM-dd}.%i.log.gz</fileNamePattern>
+            <maxFileSize>20MB</maxFileSize>
+            <maxHistory>60</maxHistory>
+            <totalSizeCap>1GB</totalSizeCap>
+        </rollingPolicy>
+    </appender>
+
+    <!-- 玩家聊天 -->
+    <appender name="玩家聊天" class="ch.qos.logback.core.rolling.RollingFileAppender">
+        <prudent>false</prudent>
+        <file>${User_logPath}/玩家聊天.log</file>
+        <encoder>
+            <pattern>${FILE_LOG_PATTERN}</pattern>
+        </encoder>
+        <rollingPolicy class="ch.qos.logback.core.rolling.SizeAndTimeBasedRollingPolicy">
+            <fileNamePattern>${User_logPath}/Backup/%d{yyyy-MM-dd}/玩家聊天-%d{yyyy-MM-dd}.%i.log.gz</fileNamePattern>
+            <maxFileSize>20MB</maxFileSize>
+            <maxHistory>60</maxHistory>
+            <totalSizeCap>1GB</totalSizeCap>
+        </rollingPolicy>
+    </appender>
+
+    <!-- 道具相關 -->
+    <appender name="道具相關" class="ch.qos.logback.core.rolling.RollingFileAppender">
+        <prudent>false</prudent>
+        <file>${User_logPath}/道具相關.log</file>
+        <encoder>
+            <pattern>${FILE_LOG_PATTERN}</pattern>
+        </encoder>
+        <rollingPolicy class="ch.qos.logback.core.rolling.SizeAndTimeBasedRollingPolicy">
+            <fileNamePattern>${User_logPath}/Backup/%d{yyyy-MM-dd}/道具相關-%d{yyyy-MM-dd}.%i.log.gz</fileNamePattern>
+            <maxFileSize>20MB</maxFileSize>
+            <maxHistory>60</maxHistory>
+            <totalSizeCap>1GB</totalSizeCap>
+        </rollingPolicy>
+    </appender>
+
+    <!-- GM指令使用記錄 -->
+    <appender name="GM指令使用記錄" class="ch.qos.logback.core.rolling.RollingFileAppender">
+        <prudent>false</prudent>
+        <file>${User_logPath}/GM指令使用記錄.log</file>
+        <encoder>
+            <pattern>${FILE_LOG_PATTERN}</pattern>
+        </encoder>
+        <rollingPolicy class="ch.qos.logback.core.rolling.SizeAndTimeBasedRollingPolicy">
+            <fileNamePattern>${User_logPath}/Backup/%d{yyyy-MM-dd}/GM指令使用記錄-%d{yyyy-MM-dd}.%i.log.gz
+            </fileNamePattern>
+            <maxFileSize>20MB</maxFileSize>
+            <maxHistory>60</maxHistory>
+            <totalSizeCap>1GB</totalSizeCap>
+        </rollingPolicy>
+    </appender>
+
+    <!-- 封號記錄 -->
+    <appender name="封號記錄" class="ch.qos.logback.core.rolling.RollingFileAppender">
+        <prudent>false</prudent>
+        <file>${User_logPath}/封號記錄.log</file>
+        <encoder>
+            <pattern>${FILE_LOG_PATTERN}</pattern>
+        </encoder>
+        <rollingPolicy class="ch.qos.logback.core.rolling.SizeAndTimeBasedRollingPolicy">
+            <fileNamePattern>${User_logPath}/Backup/%d{yyyy-MM-dd}/封號記錄-%d{yyyy-MM-dd}.%i.log.gz</fileNamePattern>
+            <maxFileSize>20MB</maxFileSize>
+            <maxHistory>60</maxHistory>
+            <totalSizeCap>1GB</totalSizeCap>
+        </rollingPolicy>
+    </appender>
+
+    <!-- 拍賣場日誌 -->
+    <appender name="拍賣場日誌" class="ch.qos.logback.core.rolling.RollingFileAppender">
+        <prudent>false</prudent>
+        <file>${User_logPath}/拍賣場日誌.log</file>
+        <encoder>
+            <pattern>${FILE_LOG_PATTERN}</pattern>
+        </encoder>
+        <rollingPolicy class="ch.qos.logback.core.rolling.SizeAndTimeBasedRollingPolicy">
+            <fileNamePattern>${User_logPath}/Backup/%d{yyyy-MM-dd}/拍賣場日誌-%d{yyyy-MM-dd}.%i.log.gz</fileNamePattern>
+            <maxFileSize>20MB</maxFileSize>
+            <maxHistory>60</maxHistory>
+            <totalSizeCap>1GB</totalSizeCap>
+        </rollingPolicy>
+    </appender>
+
+    <!-- 所有數據包 -->
+    <appender name="所有數據包" class="ch.qos.logback.core.rolling.RollingFileAppender">
+        <prudent>false</prudent>
+        <file>${Debug_logPath}/所有數據包.log</file>
+        <encoder>
+            <pattern>${FILE_LOG_PATTERN}</pattern>
+        </encoder>
+        <rollingPolicy class="ch.qos.logback.core.rolling.SizeAndTimeBasedRollingPolicy">
+            <fileNamePattern>${Debug_logPath}/Backup/%d{yyyy-MM-dd}/所有數據包-%d{yyyy-MM-dd}.%i.log.gz
+            </fileNamePattern>
+            <maxFileSize>20MB</maxFileSize>
+            <maxHistory>60</maxHistory>
+            <totalSizeCap>1GB</totalSizeCap>
+        </rollingPolicy>
+    </appender>
+
+    <!-- BUFF數據包 -->
+    <appender name="BUFF數據包" class="ch.qos.logback.core.rolling.RollingFileAppender">
+        <prudent>false</prudent>
+        <file>${Debug_logPath}/BUFF數據包.log</file>
+        <encoder>
+            <pattern>${FILE_LOG_PATTERN}</pattern>
+        </encoder>
+        <rollingPolicy class="ch.qos.logback.core.rolling.SizeAndTimeBasedRollingPolicy">
+            <fileNamePattern>${Debug_logPath}/Backup/%d{yyyy-MM-dd}/BUFF數據包-%d{yyyy-MM-dd}.%i.log.gz
+            </fileNamePattern>
+            <maxFileSize>20MB</maxFileSize>
+            <maxHistory>60</maxHistory>
+            <totalSizeCap>1GB</totalSizeCap>
+        </rollingPolicy>
+    </appender>
+
+    <!-- 連接異常 -->
+    <appender name="連接異常" class="ch.qos.logback.core.rolling.RollingFileAppender">
+        <prudent>false</prudent>
+        <file>${Debug_logPath}/連接異常.log</file>
+        <encoder>
+            <pattern>${FILE_LOG_PATTERN}</pattern>
+        </encoder>
+        <rollingPolicy class="ch.qos.logback.core.rolling.SizeAndTimeBasedRollingPolicy">
+            <fileNamePattern>${Debug_logPath}/Backup/%d{yyyy-MM-dd}/連接異常-%d{yyyy-MM-dd}.%i.log.gz</fileNamePattern>
+            <maxFileSize>20MB</maxFileSize>
+            <maxHistory>60</maxHistory>
+            <totalSizeCap>1GB</totalSizeCap>
+        </rollingPolicy>
+    </appender>
+
+    <!-- 调试視窗 -->
+    <appender name="調試視窗" class="ch.qos.logback.core.ConsoleAppender">
+        <encoder>
+            <pattern>%d{yyyy-MM-dd HH:mm:ss} %cyan(%msg%n)</pattern>
+        </encoder>
+    </appender>
+
+    <!-- 日志级别配置 -->
+    <root level="INFO">
+        <appender-ref ref="控制面板"/>
+        <appender-ref ref="伺服端日誌"/>
+    </root>
+
+    <!-- 数据库日志 -->
+    <logger name="Database" level="ERROR" additivity="false">
+        <appender-ref ref="控制面板"/>
+        <appender-ref ref="資料庫日誌"/>
+    </logger>
+    <logger name="druid.sql.DataSource" level="ALL" additivity="false">
+        <appender-ref ref="資料庫日誌"/>
+    </logger>
+    <logger name="druid.sql.Connection" level="ERROR" additivity="false">
+        <appender-ref ref="資料庫日誌"/>
+    </logger>
+
+    <!-- 数据包错误日志 -->
+    <logger name="PacketErrorLog" level="ERROR" additivity="false">
+        <appender-ref ref="數據包日誌"/>
+    </logger>
+
+    <!-- 脚本日志 -->
+    <logger name="scripting" level="ALL" additivity="false">
+        <appender-ref ref="腳本日誌"/>
+    </logger>
+
+    <!-- 移动日志 -->
+    <logger name="Movement" level="ERROR" additivity="false">
+        <appender-ref ref="移動日誌"/>
+    </logger>
+
+    <!-- 攻击日志 -->
+    <logger name="AttackPackets" level="ALL" additivity="false">
+        <appender-ref ref="攻擊日誌"/>
+    </logger>
+
+    <!-- 地图日志 -->
+    <logger name="MapleMap" level="ALL" additivity="false">
+        <appender-ref ref="地圖日誌"/>
+    </logger>
+
+    <!-- 数据包处理异常日志 -->
+    <logger name="HandlePacket" level="ALL" additivity="false">
+        <appender-ref ref="數據包處理異常日誌"/>
+    </logger>
+
+    <!-- 玩家交易日志 -->
+    <logger name="PlayerTrade" level="INFO" additivity="false">
+        <appender-ref ref="玩家交易"/>
+    </logger>
+
+    <!-- 玩家聊天日志 -->
+    <logger name="PlayerChat" level="INFO" additivity="false">
+        <appender-ref ref="玩家聊天"/>
+    </logger>
+
+    <!-- 道具相关日志 -->
+    <logger name="ItemLog" level="INFO" additivity="false">
+        <appender-ref ref="道具相關"/>
+    </logger>
+
+    <!-- GM指令使用记录日志 -->
+    <logger name="CommandProcessor" level="INFO" additivity="false">
+        <appender-ref ref="GM指令使用記錄"/>
+    </logger>
+
+    <!-- 封号记录日志 -->
+    <logger name="AutobanManager" level="INFO" additivity="false">
+        <appender-ref ref="封號記錄"/>
+    </logger>
+
+    <!-- 拍卖场日志 -->
+    <logger name="Auction" level="INFO" additivity="false">
+        <appender-ref ref="拍賣場日誌"/>
+    </logger>
+
+    <!-- 所有数据包日志 -->
+    <logger name="AllPackets" level="ERROR" additivity="false">
+        <appender-ref ref="所有數據包"/>
+    </logger>
+
+    <!-- BUFF数据包日志 -->
+    <logger name="BuffPackets" level="ALL" additivity="false">
+        <appender-ref ref="BUFF數據包"/>
+    </logger>
+
+    <!-- 连接异常日志 -->
+    <logger name="Exceptions" level="ALL" additivity="false">
+        <appender-ref ref="連接異常"/>
+    </logger>
+
+    <!-- DebugWindows -->
+    <logger name="DebugWindows" level="ALL" additivity="true">
+        <appender-ref ref="調試視窗"/>
+    </logger>
+</configuration>

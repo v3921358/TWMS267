@@ -1,0 +1,1 @@
+player.runScript("shop/推文商店");

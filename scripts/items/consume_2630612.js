@@ -1,0 +1,1 @@
+player.runScript("獎池類型/蘋果碎片");

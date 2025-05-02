@@ -1,0 +1,1 @@
+player.changeMap(map.getId() + 10);

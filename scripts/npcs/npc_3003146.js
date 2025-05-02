@@ -1,0 +1,1 @@
+player.runScript("shop/楓點商店");

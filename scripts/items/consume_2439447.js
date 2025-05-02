@@ -1,0 +1,1 @@
+player.runScript("卷軸自選/x");

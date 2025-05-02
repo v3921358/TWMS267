@@ -1,0 +1,1 @@
+player.gainItem(5000918, 1);

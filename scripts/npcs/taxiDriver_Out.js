@@ -1,0 +1,1 @@
+player.runScript("幣值轉換/幣值選單");

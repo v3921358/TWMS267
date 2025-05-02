@@ -1,0 +1,37 @@
+[
+  {
+    "VALUE": 3,
+    "NPC": 9000087,
+    "SCRIPT": "",
+    "MIN_LEVEL": 0,
+    "DESC": "#c<前往自由市場>#。"
+  },
+  {
+    "VALUE": 11,
+    "NPC": 9900001,
+    "SCRIPT": "",
+    "MIN_LEVEL": 0,
+    "DESC": "#c<檢視主選單>#。"
+  },
+  {
+    "VALUE": 9,
+    "NPC": 9010041,
+    "SCRIPT": "changeJob",
+    "MIN_LEVEL": 0,
+    "DESC": "#c<轉職系統>#。"
+  },
+  {
+    "VALUE": 19,
+    "NPC": 9330624,
+    "SCRIPT": "",
+    "MIN_LEVEL": 0,
+    "DESC": "#c<一鍵滿技>#。"
+  },
+  {
+    "VALUE": 21,
+    "NPC": 9900000,
+    "SCRIPT": "",
+    "MIN_LEVEL": 0,
+    "DESC": "#c<伺服器補償>#。"
+  }
+]

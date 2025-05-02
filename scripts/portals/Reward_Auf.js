@@ -1,0 +1,1 @@
+player.changeMap(876000000)
